@@ -1,0 +1,2555 @@
+,price,sqft,location,bathrooms,bhk
+0,149.0,1245,Airoli,2.0,4
+1,36.0,1245,Airoli,3.0,2
+2,155.0,1050,Airoli,3.0,2
+3,77.31,650,Airoli,5.0,2
+4,95.0,650,Airoli,2.0,2
+5,78.0,640,Airoli,2.0,2
+6,59.0,666,Airoli,5.0,2
+7,70.0,1050,Airoli,2.0,2
+8,70.0,680,Airoli,1.0,2
+9,400.0,680,Airoli,2.0,2
+10,40.0,1245,Airoli,1.0,2
+11,90.0,650,Airoli,3.0,2
+12,24.0,675,Airoli,5.0,2
+13,25.0,781,Airoli,2.0,2
+14,168.0,600,Airoli,3.0,2
+15,39.54999,994,Ambernath East,2.0,2
+16,34.15,993,Ambernath East,3.0,3
+17,34.1,925,Ambernath East,4.0,2
+18,23.0,918,Ambernath East,3.0,3
+19,86.0,827,Ambernath East,4.0,2
+20,24.0,690,Ambernath West,2.0,1
+21,23.74,634,Ambernath West,2.0,2
+22,24.5,910,Ambernath West,3.0,2
+23,31.0,550,Ambernath West,2.0,1
+24,25.76,630,Ambernath West,4.0,1
+25,25.2,709,Ambernath West,2.0,2
+26,31.88,630,Ambernath West,6.0,2
+27,190.0,630,Ambernath West,2.0,1
+28,190.0,644,Ambernath West,2.0,2
+29,48.0,766,Ambernath West,2.0,2
+30,85.0,1225,Andheri,3.0,4
+31,180.0,1100,Andheri,2.0,2
+32,140.0,1000,Andheri,3.0,2
+33,300.0,1480,Andheri,3.0,2
+34,387.0,1295,Andheri,6.0,4
+35,87.25,1000,Andheri,1.0,3
+36,218.0,1120,Andheri,2.0,1
+37,222.0,1450,Andheri,3.0,3
+38,105.0,900,Andheri,2.0,3
+39,90.0,1040,Andheri,5.0,3
+40,200.0,1260,Andheri East,3.0,3
+41,334.0,2016,Andheri East,3.0,2
+42,111.0,655,Andheri East,2.0,2
+44,180.0,915,Andheri East,2.0,3
+45,147.0,650,Andheri East,3.0,2
+46,325.0,950,Andheri East,2.0,3
+48,197.0,1080,Andheri East,4.0,2
+49,265.0,1356,Andheri East,3.0,3
+50,220.0,1150,Andheri East,1.0,2
+51,220.0,1000,Andheri East,2.0,3
+52,112.0,850,Andheri East,2.0,2
+53,180.0,900,Andheri East,2.0,2
+54,252.0,859,Andheri East,2.0,2
+55,189.0,969,Andheri East,3.0,3
+56,161.0,1050,Andheri East,2.0,2
+57,220.0,890,Andheri East,9.0,2
+58,72.9,1100,Andheri East,6.0,2
+60,106.0,1450,Andheri East,5.0,2
+61,290.0,780,Andheri East,1.0,1
+62,280.0,900,Andheri East,3.0,3
+63,255.0,1113,Andheri East,2.0,3
+64,218.0,426,Andheri East,2.0,1
+65,331.0,1124,Andheri East,2.0,2
+66,254.0,678,Andheri East,2.0,2
+67,185.0,902,Andheri East,2.0,3
+68,75.0,850,Andheri East,3.0,1
+69,142.0,1065,Andheri East,2.0,2
+71,80.0,2500,Andheri East,3.0,2
+72,325.0,1113,Andheri East,2.0,3
+73,103.0,878,Andheri East,2.0,2
+74,170.0,678,Andheri East,2.0,2
+75,120.0,802,Andheri East,1.0,2
+77,150.0,1020,Andheri East,1.0,1
+78,177.0,1050,Andheri East,3.0,3
+79,121.0,864,Andheri East,2.0,2
+80,130.0,1950,Andheri East,4.0,2
+81,115.0,1100,Andheri East,2.0,1
+83,270.0,1200,Andheri East,6.0,3
+84,285.0,997,Andheri West,4.0,2
+85,550.0,1950,Andheri West,2.0,2
+86,210.0,1000,Andheri West,2.0,1
+87,312.0,1361,Andheri West,4.0,4
+92,300.0,3733,Andheri West,2.0,3
+96,255.0,1600,Andheri West,2.0,3
+97,355.0,1400,Andheri West,2.0,4
+98,450.0,750,Andheri West,2.0,2
+99,450.0,750,Andheri West,2.0,2
+100,310.0,1550,Andheri West,2.0,2
+101,350.0,1600,Andheri West,3.0,3
+103,430.0,1850,Andheri West,4.0,2
+104,370.0,1600,Andheri West,4.0,2
+105,215.0,1600,Andheri West,3.0,1
+108,196.0,790,Andheri West,3.0,1
+116,554.0,1174,Andheri West,4.0,2
+117,557.0,1179,Andheri West,4.0,2
+118,607.0,1181,Andheri West,2.0,2
+119,621.0,1648,Andheri West,3.0,3
+120,545.0,1705,Andheri West,3.0,2
+121,595.0,1418,Andheri West,3.0,3
+122,270.0,1210,Andheri West,2.0,3
+123,260.0,1550,Andheri West,3.0,3
+124,425.0,2500,Andheri West,4.0,3
+128,390.0,930,Andheri West,3.0,3
+129,580.0,1680,Andheri West,3.0,3
+130,478.0,2400,Andheri West,2.0,3
+131,380.0,2250,Andheri West,2.0,3
+135,425.0,2525,Andheri West,3.0,1
+136,360.0,1250,Andheri West,3.0,2
+137,240.0,1900,Andheri West,4.0,3
+139,317.0,1003,Andheri West,2.0,3
+140,390.0,1166,Andheri West,3.0,3
+142,515.0,1250,Andheri West,4.0,2
+145,519.0,2780,Andheri West,5.0,3
+146,476.0,2260,Andheri West,1.0,4
+149,232.0,1264,Andheri West,9.0,3
+153,232.0,1264,Andheri West,3.0,3
+156,300.0,1100,Andheri West,3.0,3
+157,199.0,926,Andheri West,3.0,1
+162,607.0,1174,Andheri West,3.0,3
+163,621.0,1234,Andheri West,2.0,1
+164,426.0,1357,Andheri West,3.0,3
+165,443.0,1648,Andheri West,2.0,2
+166,597.0,894,Andheri West,2.0,2
+167,545.0,932,Andheri West,5.0,3
+168,628.0,1105,Andheri West,2.0,3
+169,595.0,1344,Andheri West,3.0,3
+170,56.0,1418,Andheri West,3.0,1
+174,320.0,1250,Andheri West,2.0,2
+180,378.0,2050,Andheri West,2.0,2
+186,370.0,1850,Andheri West,6.0,3
+189,430.0,1250,Andheri West,3.0,2
+192,273.0,1166,Andheri West,3.0,3
+193,420.0,1509,Andheri West,1.0,1
+205,120.0,1040,Andheri West,7.0,1
+206,270.0,3080,Andheri West,2.0,1
+207,350.0,3780,Andheri West,2.0,3
+212,28.65,675,Badlapur East,3.0,2
+213,153.0,675,Badlapur East,2.0,1
+214,55.0,910,Badlapur East,5.0,3
+217,39.99,1040,Badlapur East,4.0,3
+218,37.0,1025,Badlapur East,3.0,2
+219,27.5,1025,Badlapur East,2.0,2
+220,22.5,655,Badlapur East,2.0,2
+221,23.99,920,Badlapur East,4.0,2
+222,20.0,700,Badlapur East,2.0,1
+223,32.0,655,Badlapur East,2.0,2
+224,36.0,820,Badlapur East,2.0,1
+225,26.5,920,Badlapur East,1.0,2
+226,42.67,703,Badlapur East,3.0,1
+227,27.25,615,Badlapur East,2.0,2
+228,31.0,972,Badlapur East,1.0,2
+229,720.0,1141,Bandra East,4.0,2
+230,600.0,1305,Bandra East,2.0,3
+231,75.98999,425,Bandra East,3.0,1
+232,65.0,1500,Bandra East,2.0,2
+233,1150.0,1150,Bandra East,2.0,3
+234,24.0,1100,Bandra East,2.0,3
+235,44.25,1980,Bandra East,3.0,3
+236,44.89,1700,Bandra East,2.0,3
+237,69.98999,3000,Bandra East,3.0,2
+238,71.0,838,Bandra East,2.0,2
+239,163.99999,2000,Bandra East,4.0,2
+240,300.0,850,Bandra West,2.0,1
+241,250.0,850,Bandra West,2.0,2
+243,260.0,1000,Bandra West,5.0,3
+244,145.0,1800,Bandra West,2.0,4
+245,75.0,750,Bandra West,2.0,2
+246,85.0,750,Bandra West,2.0,2
+247,160.0,1824,Bandra West,2.0,2
+248,302.0,1409,Bandra West,3.0,2
+249,95.0,1200,Bandra West,2.0,4
+250,524.0,2255,Bandra West,3.0,2
+253,170.0,2000,Bandra West,2.0,4
+254,105.0,2200,Bandra West,2.0,2
+255,135.0,1050,Belapur,2.0,3
+256,180.0,1335,Belapur,3.0,4
+257,190.0,1267,Belapur,2.0,3
+258,57.0,5000,Belapur,2.0,2
+259,37.0,1020,Belapur,3.0,2
+260,80.0,1600,Belapur,3.0,2
+261,162.0,1300,Belapur,2.0,3
+264,60.0,1000,Belapur,2.0,2
+265,90.0,2200,Belapur,2.0,2
+266,260.0,1900,Belapur,3.0,3
+267,113.99999,1800,Belapur,5.0,3
+268,22.5,1090,Belapur,1.0,1
+270,93.0,1550,Belapur,3.0,3
+274,33.25,1550,Belapur,2.0,2
+275,35.0,1350,Belapur,3.0,2
+278,98.0,1225,Belapur,2.0,3
+279,148.0,1850,Belapur,2.0,2
+280,22.0,1850,Belapur,3.0,2
+281,240.0,1850,Belapur,4.0,3
+282,360.0,1815,Bhandup West,3.0,3
+283,69.98999,1264,Bhandup West,2.0,2
+290,237.0,3050,Bhandup West,2.0,2
+291,262.0,1585,Bhandup West,2.0,3
+292,221.0,1750,Bhandup West,4.0,2
+293,309.0,1475,Bhandup West,2.0,2
+294,221.0,2000,Bhandup West,2.0,3
+295,309.0,3975,Bhandup West,4.0,2
+296,279.0,3050,Bhandup West,7.0,3
+297,89.5,1585,Bhandup West,1.0,2
+298,165.0,1750,Bhandup West,2.0,2
+299,175.0,1475,Bhandup West,4.0,2
+300,80.0,945,Bhayandar East,2.0,2
+301,78.0,715,Bhayandar East,3.0,2
+302,86.0,1227,Bhiwandi,3.0,2
+303,81.0,1108,Bhiwandi,3.0,3
+304,81.0,1032,Bhiwandi,2.0,3
+305,75.0,985,Bhiwandi,3.0,3
+306,68.0,880,Bhiwandi,1.0,2
+307,91.67,1530,Bhiwandi,2.0,3
+308,78.81,1490,Bhiwandi,2.0,3
+309,56.86,1295,Bhiwandi,5.0,3
+310,56.9,657,Bhiwandi,2.0,2
+311,92.0,1491,Bhiwandi,2.0,1
+312,58.0,1017,Bhiwandi,4.0,3
+313,58.0,927,Bhiwandi,2.0,1
+314,80.0,1021,Bhiwandi,2.0,3
+315,75.0,1021,Bhiwandi,2.0,1
+316,80.0,1080,Bhiwandi,2.0,2
+317,82.0,1080,Bhiwandi,2.0,1
+318,20.0,780,Boisar,2.0,1
+320,20.0,780,Boisar,3.0,1
+321,155.0,750,Boisar,2.0,2
+322,155.0,750,Boisar,3.0,2
+323,142.0,630,Boisar,2.0,2
+336,167.0,780,Boisar,2.0,2
+337,21.78,605,Boisar,2.0,1
+341,56.9,610,Boisar,2.0,2
+343,85.0,780,Boisar,2.0,2
+344,80.16,1120,Boisar,1.0,2
+351,57.0,935,Boisar,2.0,2
+352,83.99,1050,Boisar,2.0,2
+353,36.5,1200,Boisar,2.0,1
+354,25.0,465,Boisar,2.0,1
+355,160.0,990,Boisar,2.0,1
+356,150.0,930,Boisar,4.0,2
+357,93.7,1095,Boisar,2.0,2
+358,61.52,1108,Boisar,2.0,2
+363,170.0,1105,Borivali East,3.0,1
+364,153.0,950,Borivali East,1.0,2
+365,160.0,1250,Borivali East,2.0,2
+366,155.0,907,Borivali East,2.0,2
+367,225.0,1189,Borivali East,2.0,3
+368,215.0,1080,Borivali East,3.0,2
+369,230.0,1500,Borivali East,1.0,3
+370,100.0,600,Borivali East,2.0,2
+371,214.0,1560,Borivali East,5.0,3
+373,150.0,900,Borivali East,4.0,3
+375,130.0,1450,Borivali East,2.0,2
+376,200.0,1013,Borivali East,4.0,3
+377,130.0,890,Borivali East,3.0,2
+378,220.0,1300,Borivali West,3.0,3
+379,162.99999,900,Borivali West,3.0,2
+383,155.0,800,Borivali West,3.0,2
+385,90.0,1250,Borivali West,2.0,1
+386,215.0,3000,Borivali West,2.0,3
+387,185.0,1200,Borivali West,7.0,3
+388,199.0,1050,Borivali West,2.0,3
+389,135.0,650,Borivali West,2.0,2
+390,133.0,600,Borivali West,2.0,2
+392,165.0,1000,Borivali West,2.0,1
+393,170.0,1670,Borivali West,2.0,3
+395,200.0,742,Borivali West,2.0,2
+396,285.0,756,Borivali West,3.0,2
+397,285.0,1100,Borivali West,2.0,2
+398,275.0,630,Borivali West,4.0,2
+400,145.0,650,Borivali West,2.0,1
+401,235.0,1500,Borivali West,3.0,2
+403,120.0,650,Borivali West,2.0,1
+404,160.0,710,Borivali West,4.0,2
+406,150.0,635,Borivali West,2.0,2
+407,185.0,900,Borivali West,4.0,3
+409,145.0,935,Borivali West,1.0,3
+413,145.0,680,Borivali West,3.0,1
+414,220.0,1056,Borivali West,5.0,3
+415,90.0,650,Borivali West,2.0,1
+422,150.0,950,Borivali West,4.0,3
+424,225.0,650,Borivali West,2.0,1
+425,256.0,750,Borivali West,3.0,2
+426,162.0,1050,Borivali West,2.0,3
+427,145.0,750,Borivali West,2.0,2
+428,170.0,1400,Borivali West,3.0,3
+429,120.0,1125,Borivali West,3.0,1
+431,90.0,750,Borivali West,2.0,1
+432,88.0,750,Borivali West,2.0,1
+433,175.0,600,Borivali West,3.0,1
+434,172.0,650,Borivali West,2.0,2
+435,210.0,600,Borivali West,4.0,1
+436,69.0,446,Borivali West,3.0,1
+439,98.0,575,Borivali West,2.0,1
+442,168.0,1950,Borivali West,3.0,2
+443,250.0,1050,Borivali West,3.0,3
+444,145.0,1600,Borivali West,5.0,3
+445,140.0,650,Borivali West,1.0,2
+446,140.0,850,Borivali West,2.0,1
+448,225.0,610,Borivali West,2.0,1
+449,145.0,1300,Borivali West,2.0,4
+450,34.25,960,Borivali West,2.0,1
+454,180.0,1500,Borivali West,2.0,2
+461,275.0,935,Borivali West,3.0,2
+462,285.0,732,Borivali West,2.0,2
+463,195.0,935,Borivali West,2.0,2
+464,150.0,935,Borivali West,4.0,3
+466,184.0,775,Borivali West,4.0,2
+467,80.0,770,Borivali West,2.0,1
+469,137.99999,900,Borivali West,2.0,2
+470,177.0,600,Borivali West,2.0,2
+471,150.0,2250,Borivali West,1.0,2
+473,57.42,600,Borivali West,4.0,1
+474,130.0,600,Borivali West,3.0,2
+475,195.0,1050,Borivali West,2.0,3
+478,230.0,450,Borivali West,2.0,1
+480,115.0,380,Borivali West,2.0,1
+483,337.0,1600,Chembur,1.0,2
+485,185.0,1000,Chembur,5.0,3
+487,196.0,1250,Chembur,2.0,3
+488,215.0,1200,Chembur,3.0,3
+489,145.0,989,Chembur,2.0,2
+490,199.0,2300,Chembur,2.0,4
+491,321.0,1100,Chembur,2.0,3
+493,321.0,1550,Chembur,2.0,4
+494,175.0,632,Chembur,2.0,1
+495,189.0,1600,Chembur,1.0,3
+496,290.0,2700,Chembur,2.0,4
+498,175.0,1000,Chembur,1.0,1
+499,102.0,1070,Chembur,3.0,1
+500,202.0,775,Chembur,2.0,1
+503,315.0,600,Chembur,3.0,2
+505,300.0,1000,Chembur,2.0,2
+506,365.0,1200,Chembur,3.0,1
+507,275.0,1500,Chembur,3.0,2
+508,196.0,1400,Chembur,2.0,3
+509,300.0,1010,Chembur,3.0,2
+510,300.0,950,Chembur,2.0,3
+514,304.0,624,Chembur,3.0,2
+515,310.0,957,Chembur,3.0,3
+516,160.0,1350,Chembur,7.0,2
+519,205.0,1250,Chembur,2.0,3
+520,175.0,1020,Chembur,2.0,2
+521,95.0,1000,Chembur,2.0,1
+522,268.0,1278,Chembur,1.0,2
+523,224.0,1787,Chembur,2.0,2
+525,175.0,1200,Chembur,7.0,2
+526,309.0,1050,Chembur,3.0,3
+527,309.0,1050,Chembur,2.0,3
+528,361.0,1100,Chembur,1.0,3
+530,361.0,1100,Chembur,3.0,2
+533,102.0,698,Chembur,2.0,1
+535,140.0,783,Chembur,2.0,2
+537,129.0,561,Chembur,2.0,1
+538,194.0,731,Chembur,4.0,2
+540,168.0,783,Chembur,5.0,2
+541,163.99999,623,Chembur,2.0,1
+542,157.0,731,Chembur,2.0,2
+543,45.0,447,Chembur,2.0,1
+544,285.0,800,Chembur,2.0,2
+546,63.0,1100,Chembur,2.0,1
+550,120.0,850,Chembur,2.0,1
+551,185.0,1020,Chembur,3.0,3
+556,163.99999,649,Chembur,2.0,2
+558,157.0,576,Chembur,5.0,1
+559,43.71,863,Chembur,1.0,1
+560,190.0,1278,Chembur,1.0,3
+561,195.0,1278,Chembur,2.0,2
+564,165.0,1278,Chembur,2.0,2
+565,182.0,1550,Chembur East,2.0,4
+566,222.0,1850,Chembur East,2.0,4
+567,195.0,1270,Chembur East,3.0,1
+568,140.0,1250,Chembur East,3.0,4
+569,121.0,1150,Dahisar,3.0,2
+570,370.0,2730,Dahisar,2.0,2
+571,365.0,1361,Dahisar,3.0,2
+572,280.0,1250,Dahisar,2.0,2
+573,370.0,1850,Dahisar,2.0,3
+574,370.0,1850,Dahisar,2.0,2
+575,365.0,1361,Dahisar,2.0,4
+576,280.0,1250,Dahisar,3.0,3
+577,370.0,1850,Dahisar,2.0,3
+578,290.0,1850,Dahisar,2.0,2
+579,350.0,980,Dahisar,2.0,1
+580,260.0,873,Dahisar,2.0,2
+581,260.0,1230,Dahisar,6.0,2
+586,96.0,850,Dahisar,3.0,2
+587,76.0,750,Dahisar,2.0,1
+588,165.0,850,Dahisar,3.0,1
+589,98.0,820,Dahisar,3.0,2
+591,165.0,1196,Dahisar,7.0,2
+595,165.0,1984,Dahisar,3.0,2
+596,110.0,685,Dahisar,1.0,2
+597,115.0,850,Dahisar,2.0,2
+598,200.0,650,Dahisar,2.0,1
+601,165.0,1196,Dahisar,2.0,2
+603,155.0,855,Dahisar,2.0,2
+604,345.0,1196,Dahisar,2.0,3
+605,340.0,855,Dahisar,4.0,2
+606,235.0,855,Dahisar,2.0,2
+607,188.0,1200,Dahisar,3.0,2
+608,188.0,1200,Dahisar,4.0,2
+609,58.0,600,Dahisar East,2.0,2
+610,142.0,785,Dahisar East,3.0,1
+611,80.0,1020,Dahisar East,3.0,3
+612,125.0,815,Dahisar East,4.0,1
+613,295.0,1300,Dahisar East,2.0,3
+614,258.0,1026,Dahisar East,2.0,2
+615,130.0,927,Dahisar East,2.0,2
+616,85.0,1100,Dahisar West,3.0,3
+617,155.0,1200,Dahisar West,3.0,2
+618,100.0,585,Dahisar West,2.0,1
+619,150.0,610,Dahisar West,7.0,2
+620,82.0,680,Dahisar West,2.0,2
+621,180.0,625,Dahisar West,2.0,2
+622,82.0,990,Dahisar West,2.0,2
+623,180.0,650,Dahisar West,2.0,1
+624,96.0,500,Dahisar West,2.0,1
+625,185.0,1050,Dattapada,2.0,2
+626,150.0,1050,Dattapada,3.0,2
+627,210.0,1250,Dattapada,2.0,3
+628,190.0,1050,Dattapada,2.0,2
+631,180.0,1050,Dattapada,1.0,2
+633,175.0,950,Dattapada,1.0,1
+634,195.0,1250,Dattapada,7.0,2
+635,195.0,1200,Dattapada,3.0,3
+636,150.0,1300,Dattapada,2.0,2
+639,117.0,1503,Dombivali,2.0,1
+640,149.0,700,Dombivali,2.0,2
+642,300.0,1000,Dombivali,2.0,1
+643,40.43,809,Dombivali,3.0,1
+646,175.0,630,Dombivali,3.0,2
+647,270.0,710,Dombivali,3.0,1
+650,140.0,670,Dombivali,4.0,2
+652,275.0,1098,Dombivali,2.0,3
+653,43.0,1131,Dombivali,2.0,1
+657,90.0,750,Dombivali,6.0,1
+658,180.0,1120,Dombivali,2.0,2
+660,27.0,1314,Dombivali,3.0,1
+662,185.0,1197,Dombivali,2.0,3
+663,85.0,1098,Dombivali,2.0,1
+664,195.0,665,Dombivali,2.0,1
+665,130.0,700,Dombivali,2.0,2
+667,76.0,950,Dombivali East,4.0,2
+668,36.0,600,Dombivali East,2.0,2
+669,76.0,950,Dombivali East,3.0,2
+670,35.0,686,Dombivali East,2.0,2
+671,80.2,700,Dombivali East,2.0,2
+673,45.0,920,Dombivali East,4.0,1
+675,55.0,920,Dombivali East,2.0,2
+676,63.0,1480,Dombivali East,2.0,3
+677,115.0,645,Dombivli (West),2.0,2
+678,165.0,1050,Dombivli (West),5.0,2
+679,45.0,1075,Dombivli (West),2.0,3
+680,22.49,950,Dombivli (West),3.0,3
+681,54.0,995,Dombivli (West),2.0,3
+682,67.0,1034,Dombivli (West),4.0,3
+683,59.99,600,Dombivli (West),2.0,2
+686,24.0,625,Dronagiri,9.0,2
+687,52.0,1070,Dronagiri,2.0,2
+688,34.0,704,Dronagiri,2.0,2
+691,36.5,665,Dronagiri,4.0,2
+692,30.01,675,Dronagiri,2.0,1
+693,61.0,1150,Dronagiri,2.0,2
+694,44.0,645,Dronagiri,2.0,1
+695,115.0,1000,Dronagiri,4.0,3
+696,170.0,1050,Dronagiri,2.0,3
+697,30.0,735,Dronagiri,3.0,2
+698,30.0,665,Dronagiri,2.0,2
+699,130.0,1175,Dronagiri,3.0,2
+700,168.0,650,Dronagiri,2.0,2
+701,192.0,1365,Ghansoli,3.0,1
+702,198.0,2065,Ghansoli,2.0,3
+703,160.0,1400,Ghansoli,2.0,3
+704,145.0,1550,Ghansoli,2.0,3
+705,120.0,1145,Ghansoli,3.0,3
+706,125.0,925,Ghansoli,3.0,2
+707,130.0,1145,Ghansoli,3.0,3
+708,89.0,1050,Ghansoli,2.0,2
+709,90.0,1665,Ghansoli,5.0,2
+710,165.0,695,Ghansoli,2.0,2
+711,98.0,905,Ghansoli,2.0,3
+712,155.0,1200,Ghansoli,2.0,1
+713,90.0,1205,Ghansoli,15.0,3
+714,175.0,1450,Ghansoli,2.0,3
+715,140.0,1200,Ghansoli,2.0,3
+716,190.0,900,Ghansoli,2.0,3
+717,185.0,1200,Ghansoli,2.0,3
+718,93.0,1240,Ghansoli,3.0,3
+719,106.0,660,Ghansoli,2.0,2
+720,180.0,1462,Ghatkopar,2.0,2
+721,220.0,1527,Ghatkopar,3.0,3
+722,175.0,1188,Ghatkopar,3.0,2
+723,245.0,2200,Ghatkopar,2.0,1
+724,235.0,1558,Ghatkopar,3.0,2
+725,175.0,1188,Ghatkopar West,2.0,3
+726,105.0,5150,Ghatkopar West,3.0,6
+727,462.0,1046,Ghatkopar West,2.0,1
+728,108.0,1507,Ghatkopar West,3.0,1
+729,348.0,1182,Ghatkopar West,4.0,2
+730,160.0,1050,Ghatkopar West,2.0,2
+731,168.0,1053,Ghatkopar West,2.0,2
+732,165.0,1054,Ghatkopar West,2.0,3
+733,163.99999,1054,Ghatkopar West,3.0,3
+734,165.0,1050,Ghatkopar West,2.0,2
+735,62.0,1053,Ghatkopar West,2.0,2
+736,270.0,1040,Ghatkopar West,2.0,3
+737,119.0,700,Ghatkopar West,2.0,2
+738,102.0,644,Ghatkopar West,4.0,2
+739,80.0,750,Ghatkopar West,2.0,2
+740,76.0,750,Ghatkopar West,3.0,1
+741,224.0,996,Ghatkopar West,2.0,1
+742,168.0,1358,Ghatkopar West,2.0,3
+744,125.0,1238,Ghatkopar West,3.0,2
+745,165.0,1238,Ghatkopar West,3.0,3
+746,148.0,1350,Ghatkopar West,2.0,3
+748,270.0,1238,Ghatkopar West,4.0,3
+749,110.0,1238,Ghatkopar West,3.0,1
+751,270.0,1695,Goregaon,4.0,3
+752,216.0,1579,Goregaon,3.0,2
+753,302.0,2153,Goregaon,3.0,1
+754,412.0,1872,Goregaon,2.0,4
+755,305.0,1717,Goregaon,2.0,2
+756,375.0,2195,Goregaon,2.0,4
+757,415.0,2195,Goregaon,4.0,4
+758,320.0,1950,Goregaon,2.0,4
+759,155.0,1342,Goregaon,2.0,3
+760,185.0,1415,Goregaon,2.0,3
+761,256.0,1202,Goregaon,2.0,3
+762,180.0,3507,Goregaon,4.0,2
+763,210.0,987,Goregaon,3.0,3
+764,435.0,1040,Goregaon,2.0,2
+765,279.0,1404,Goregaon East,5.0,1
+766,315.0,1620,Goregaon East,3.0,2
+767,367.0,1675,Goregaon East,6.0,2
+768,160.0,900,Goregaon East,2.0,1
+769,290.0,1404,Goregaon East,1.0,3
+770,294.0,1618,Goregaon East,2.0,2
+771,250.0,1400,Goregaon East,2.0,3
+772,170.0,974,Goregaon East,2.0,2
+774,72.0,526,Goregaon East,4.0,1
+776,325.0,2015,Goregaon East,2.0,3
+782,160.0,1190,Goregaon East,4.0,2
+787,370.0,1456,Goregaon East,3.0,4
+788,180.0,1050,Goregaon East,2.0,2
+790,225.0,1660,Goregaon East,8.0,3
+793,197.0,709,Goregaon East,2.0,2
+794,354.0,980,Goregaon East,2.0,3
+795,285.0,1418,Goregaon East,2.0,4
+796,223.0,1035,Goregaon East,3.0,3
+797,285.0,1690,Goregaon East,2.0,2
+798,310.0,1200,Goregaon East,2.0,3
+799,165.0,1820,Goregaon East,3.0,2
+800,119.0,2100,Goregaon East,2.0,1
+802,130.0,1400,Goregaon East,3.0,1
+803,192.0,1100,Goregaon East,2.0,3
+804,189.0,1820,Goregaon East,2.0,3
+806,210.0,3600,Goregaon East,2.0,3
+807,62.0,400,Goregaon East,2.0,1
+809,181.0,1296,Goregaon West,2.0,2
+810,238.0,1638,Goregaon West,2.0,1
+811,212.0,1465,Goregaon West,2.0,4
+813,90.0,640,Goregaon West,3.0,1
+814,120.0,510,Goregaon West,3.0,1
+815,170.0,1270,Goregaon West,5.0,3
+816,215.0,1500,Goregaon West,1.0,4
+817,215.0,1500,Goregaon West,2.0,2
+818,215.0,1500,Goregaon West,11.0,2
+819,255.0,1650,Goregaon West,1.0,1
+820,257.0,1505,Goregaon West,3.0,1
+825,185.0,1487,Goregaon West,2.0,3
+826,170.0,1065,Goregaon West,2.0,1
+828,250.0,1100,Goregaon West,3.0,3
+830,195.0,1485,Goregaon West,2.0,1
+832,195.0,1485,Goregaon West,2.0,3
+834,28.0,1150,Goregaon West,2.0,1
+838,239.0,1112,Goregaon West,6.0,1
+839,200.0,1859,Goregaon West,2.0,3
+841,250.0,941,Goregaon West,3.0,2
+842,280.0,1710,Goregaon West,3.0,3
+845,200.0,1600,Goregaon West,3.0,3
+846,110.0,1250,Goregaon West,4.0,1
+848,85.0,1250,Goregaon West,2.0,1
+849,207.0,1088,Goregaon West,3.0,3
+851,207.0,1088,Goregaon West,2.0,2
+853,78.0,1088,Goregaon West,2.0,1
+855,295.0,1399,Goregaon West,7.0,1
+857,180.0,1500,Goregaon West,4.0,3
+859,185.0,1100,Goregaon West,2.0,3
+860,125.0,1100,Goregaon West,2.0,3
+862,200.0,1100,Goregaon West,2.0,3
+863,135.0,1100,Goregaon West,2.0,3
+864,195.0,1100,Goregaon West,4.0,3
+865,280.0,1100,Goregaon West,5.0,3
+869,142.0,1350,Goregaon West,4.0,3
+871,250.0,888,Goregaon West,2.0,2
+875,80.0,980,Goregaon West,4.0,1
+880,165.0,750,Jogeshwari West,3.0,1
+881,105.0,750,Jogeshwari West,3.0,2
+882,65.0,950,Jogeshwari West,2.0,1
+883,325.0,950,Jogeshwari West,1.0,2
+887,214.0,1050,Jogeshwari West,4.0,2
+888,245.0,1350,Jogeshwari West,1.0,3
+889,225.0,1350,Jogeshwari West,2.0,2
+890,245.0,1350,Jogeshwari West,2.0,2
+891,225.0,1350,Jogeshwari West,2.0,4
+892,155.0,750,Jogeshwari West,2.0,1
+894,160.0,750,Jogeshwari West,2.0,2
+896,126.0,2200,Jogeshwari West,2.0,2
+897,140.0,750,Jogeshwari West,2.0,2
+898,146.0,750,Jogeshwari West,1.0,2
+899,108.0,880,Jogeshwari West,4.0,1
+901,110.0,756,Juhu,2.0,1
+902,270.0,1634,Juhu,3.0,2
+903,550.0,1800,Juhu,2.0,3
+904,102.0,2160,Juhu,2.0,2
+905,102.0,2160,Juhu,2.0,1
+906,100.0,5460,Juhu,5.0,1
+908,250.0,1800,Juhu,3.0,3
+911,178.0,4320,Juhu,2.0,2
+912,140.0,1080,Juhu,3.0,2
+913,146.0,2040,Juhu,2.0,2
+915,500.0,780,Juhu,4.0,2
+916,500.0,1020,Juhu,3.0,2
+917,130.0,1020,Juhu,2.0,2
+918,63.5,1620,Juhu,2.0,2
+920,35.0,2800,Juhu,3.0,2
+921,550.0,1500,Juhu,5.0,3
+925,42.0,960,Juhu,1.0,2
+927,120.0,600,Juhu,2.0,1
+930,475.0,1050,Juhu,9.0,2
+932,95.0,1056,Kalwa,2.0,3
+933,97.5,711,Kalwa,2.0,2
+934,97.5,711,Kalwa,2.0,2
+935,85.0,1000,Kalwa,2.0,3
+936,130.0,1051,Kalwa,4.0,3
+937,120.0,2500,Kalwa,3.0,2
+938,130.0,565,Kalwa,4.0,1
+939,33.0,855,Kalyan East,2.0,2
+940,45.0,600,Kalyan East,3.0,2
+941,45.0,880,Kalyan East,2.0,2
+942,45.0,600,Kalyan East,3.0,2
+943,45.0,880,Kalyan East,2.0,2
+944,210.0,1060,Kalyan East,2.0,2
+945,220.0,1700,Kalyan East,2.0,2
+946,390.0,1060,Kalyan East,1.0,3
+947,110.0,1060,Kalyan East,1.0,3
+949,70.0,950,Kalyan West,2.0,3
+950,75.0,1220,Kalyan West,1.0,3
+951,160.0,1127,Kalyan West,3.0,3
+952,77.0,1065,Kalyan West,2.0,3
+954,148.0,1000,Kalyan West,3.0,3
+955,105.0,600,Kalyan West,4.0,2
+956,23.5,755,Kalyan West,3.0,1
+959,43.8,650,Kalyan West,3.0,1
+961,83.0,660,Kalyan West,2.0,2
+968,108.0,655,Kalyan West,9.0,2
+969,70.0,900,Kalyan West,2.0,3
+970,140.0,657,Kalyan West,2.0,2
+971,120.0,1300,Kalyan West,2.0,2
+972,96.2,1340,Kalyan West,2.0,4
+973,55.0,685,Kalyan West,5.0,1
+974,99.0,1397,Kalyan West,2.0,2
+975,75.0,695,Kalyan West,3.0,2
+976,73.0,970,Kalyan West,3.0,2
+977,25.99,970,Kalyan West,1.0,1
+979,75.48,950,Kalyan West,2.0,3
+980,67.87,1100,Kalyan West,4.0,2
+981,87.0,955,Kalyan West,7.0,2
+982,100.0,1560,Kalyan West,3.0,3
+984,195.0,935,Kalyan West,2.0,2
+985,80.0,695,Kalyan West,3.0,2
+987,80.0,700,Kalyan West,2.0,2
+988,99.0,1095,Kalyan West,2.0,2
+990,86.0,945,Kalyan West,2.0,3
+994,83.0,1120,Kalyan West,3.0,3
+995,83.0,1120,Kalyan West,3.0,2
+996,83.0,1120,Kalyan West,2.0,1
+997,83.0,1120,Kalyan West,3.0,3
+998,83.0,1120,Kalyan West,2.0,2
+999,83.0,1120,Kalyan West,2.0,3
+1000,83.0,1120,Kalyan West,3.0,1
+1001,76.0,1110,Kalyan West,5.0,3
+1003,90.0,760,Kalyan West,2.0,2
+1005,135.0,695,Kalyan West,3.0,1
+1008,52.0,650,Kalyan West,5.0,1
+1017,33.0,1045,Kalyan West,2.0,1
+1021,150.0,1050,Kalyan West,3.0,2
+1022,92.0,1050,Kalyan West,2.0,2
+1023,150.0,960,Kalyan West,6.0,3
+1028,80.0,740,Kalyan West,2.0,1
+1029,100.0,735,Kalyan West,2.0,1
+1032,180.0,999,Kalyan West,2.0,3
+1033,89.0,1545,Kalyan West,5.0,2
+1035,33.0,950,Kalyan West,2.0,1
+1038,101.0,600,Kalyan West,3.0,2
+1044,92.0,650,Kalyan West,2.0,2
+1045,97.0,964,Kalyan West,1.0,1
+1047,130.0,1000,Kalyan West,5.0,2
+1051,69.0,950,Kamothe,2.0,1
+1052,71.0,887,Kamothe,2.0,2
+1053,78.0,1005,Kamothe,3.0,2
+1054,59.0,950,Kamothe,2.0,1
+1056,68.0,1006,Kamothe,3.0,1
+1057,52.0,850,Kamothe,4.0,1
+1059,69.0,900,Kamothe,2.0,2
+1060,79.5,940,Kamothe,2.0,1
+1061,54.6,620,Kamothe,2.0,1
+1065,87.25,1175,Kamothe,3.0,1
+1067,93.5,1236,Kamothe,3.0,2
+1068,100.0,1700,Kamothe,2.0,2
+1070,110.0,1575,Kamothe,2.0,4
+1073,44.0,980,Kamothe,7.0,1
+1074,69.0,1065,Kamothe,4.0,1
+1075,92.0,1098,Kamothe,7.0,1
+1076,80.0,1310,Kamothe,2.0,2
+1079,80.0,1310,Kamothe,3.0,2
+1081,90.0,650,Kamothe,3.0,2
+1082,94.0,1258,Kamothe,2.0,2
+1083,112.0,1101,Kamothe,2.0,3
+1084,112.0,1125,Kamothe,5.0,3
+1089,70.0,600,Kamothe,3.0,2
+1090,122.0,1012,Kamothe,4.0,3
+1092,104.0,630,Kamothe,4.0,2
+1093,104.0,1129,Kamothe,4.0,3
+1095,79.0,605,Kamothe,4.0,1
+1096,95.0,1000,Kamothe,2.0,1
+1099,125.0,1310,Kamothe,2.0,2
+1100,124.0,1540,Kamothe,2.0,3
+1103,250.0,1095,Kamothe,2.0,3
+1104,275.0,1110,Kamothe,1.0,2
+1105,250.0,610,Kamothe,3.0,2
+1107,200.0,1168,Kamothe,3.0,2
+1110,45.0,550,Kamothe,2.0,1
+1111,215.0,2000,Kamothe,2.0,2
+1114,170.0,650,Kamothe,3.0,2
+1115,130.0,1103,Kamothe,2.0,2
+1116,162.0,1103,Kamothe,2.0,2
+1117,132.0,1010,Kamothe,4.0,2
+1118,84.0,1150,Kamothe,5.0,2
+1122,75.0,2200,Kamothe,2.0,2
+1124,75.0,1500,Kamothe,2.0,2
+1125,150.0,1400,Kamothe,2.0,3
+1126,84.0,930,Kamothe,2.0,2
+1128,84.0,950,Kamothe,2.0,2
+1131,277.99999,1810,Kandivali East,2.0,2
+1132,250.0,1600,Kandivali East,4.0,4
+1133,282.0,1170,Kandivali East,4.0,3
+1134,264.0,1014,Kandivali East,2.0,2
+1135,168.0,764,Kandivali East,3.0,1
+1136,186.0,820,Kandivali East,2.0,1
+1137,295.0,2415,Kandivali East,2.0,4
+1138,280.0,1890,Kandivali East,2.0,3
+1139,310.0,1475,Kandivali East,1.0,2
+1140,245.0,1350,Kandivali East,3.0,4
+1141,315.0,1786,Kandivali East,2.0,5
+1142,210.0,1350,Kandivali East,2.0,3
+1143,350.0,2450,Kandivali East,4.0,6
+1144,180.0,1165,Kandivali East,2.0,3
+1145,330.0,1667,Kandivali East,3.0,3
+1146,315.0,2415,Kandivali East,3.0,2
+1147,305.0,2415,Kandivali East,2.0,5
+1148,315.0,2415,Kandivali East,2.0,4
+1149,220.0,1530,Kandivali East,1.0,4
+1152,196.0,1137,Kandivali East,3.0,2
+1153,325.0,999,Kandivali East,2.0,2
+1155,111.0,525,Kandivali East,2.0,1
+1159,189.0,1065,Kandivali East,3.0,2
+1161,145.0,2400,Kandivali East,5.0,1
+1171,225.0,995,Kandivali East,2.0,1
+1173,270.0,1655,Kandivali East,2.0,1
+1174,315.0,1325,Kandivali East,2.0,3
+1176,225.0,1250,Kandivali East,3.0,3
+1179,265.0,1325,Kandivali East,4.0,2
+1180,165.0,1065,Kandivali East,2.0,1
+1181,175.0,1090,Kandivali East,5.0,2
+1185,216.0,845,Kandivali East,3.0,1
+1186,327.0,1202,Kandivali East,2.0,2
+1191,270.0,1750,Kandivali East,2.0,2
+1192,279.0,1750,Kandivali East,3.0,3
+1194,125.0,1090,Kandivali East,4.0,1
+1197,162.0,1150,Kandivali East,2.0,3
+1200,40.0,1850,Kandivali East,9.0,1
+1201,225.0,645,Kandivali East,6.0,2
+1202,350.0,1350,Kandivali East,2.0,3
+1206,68.0,553,Kandivali East,2.0,1
+1208,227.99999,1350,Kandivali East,5.0,2
+1209,185.0,1786,Kandivali East,3.0,2
+1210,225.0,1400,Kandivali East,4.0,1
+1211,329.0,1050,Kandivali East,1.0,3
+1212,260.0,1050,Kandivali East,2.0,3
+1213,225.0,1750,Kandivali East,2.0,3
+1219,225.0,1655,Kandivali East,7.0,3
+1222,240.0,1090,Kandivali East,2.0,3
+1223,315.0,460,Kandivali East,3.0,1
+1230,215.0,1655,Kandivali East,3.0,3
+1231,325.0,1600,Kandivali East,2.0,2
+1233,175.0,1120,Kandivali East,5.0,3
+1234,230.0,1052,Kandivali East,6.0,2
+1235,250.0,1750,Kandivali East,2.0,4
+1236,250.0,1655,Kandivali East,2.0,3
+1237,170.0,2465,Kandivali East,2.0,3
+1238,200.0,1120,Kandivali East,2.0,3
+1242,180.0,1500,Kandivali West,2.0,3
+1243,250.0,1440,Kandivali West,3.0,2
+1245,137.0,1056,Kandivali West,2.0,1
+1247,175.0,1500,Kandivali West,1.0,3
+1248,265.0,1500,Kandivali West,5.0,4
+1249,210.0,1129,Kandivali West,3.0,3
+1250,165.0,839,Kandivali West,4.0,1
+1253,210.0,1561,Kandivali West,2.0,2
+1254,149.0,2000,Kandivali West,3.0,3
+1255,160.0,925,Kandivali West,2.0,2
+1256,258.0,665,Kandivali West,2.0,1
+1257,170.0,864,Kandivali West,2.0,1
+1258,170.0,864,Kandivali West,1.0,1
+1260,169.0,888,Kandivali West,3.0,2
+1262,225.0,1555,Kandivali West,3.0,3
+1263,260.0,950,Kandivali West,2.0,2
+1267,211.0,1450,Kandivali West,4.0,3
+1268,211.0,1450,Kandivali West,2.0,1
+1269,215.0,1737,Kandivali West,3.0,3
+1271,210.0,1150,Kandivali West,1.0,3
+1272,108.0,950,Kandivali West,4.0,1
+1274,255.0,900,Kandivali West,3.0,2
+1275,145.0,1400,Kandivali West,3.0,1
+1278,188.0,990,Kandivali West,2.0,2
+1279,189.0,990,Kandivali West,2.0,3
+1280,188.0,990,Kandivali West,2.0,3
+1283,188.0,990,Kandivali West,3.0,3
+1284,189.0,990,Kandivali West,3.0,2
+1285,95.0,990,Kandivali West,2.0,1
+1288,125.0,850,Kandivali West,3.0,1
+1292,120.0,800,Kandivali West,3.0,1
+1293,180.0,1100,Kandivali West,2.0,3
+1294,85.0,484,Kanjurmarg,2.0,1
+1295,199.0,1055,Kanjurmarg,4.0,3
+1296,159.0,1421,Kanjurmarg,2.0,2
+1297,175.0,1052,Kanjurmarg,3.0,3
+1298,138.99999,943,Kanjurmarg,3.0,3
+1299,78.0,1050,Kanjurmarg,3.0,3
+1300,168.0,1054,Kanjurmarg,4.0,3
+1301,47.0,650,Karanjade,5.0,1
+1302,41.0,690,Karanjade,2.0,2
+1303,33.0,625,Karanjade,3.0,2
+1306,60.0,1010,Karanjade,2.0,2
+1307,152.0,585,Karanjade,1.0,1
+1308,47.0,640,Karanjade,2.0,2
+1309,54.99,1100,Karanjade,2.0,2
+1310,38.0,685,Karanjade,2.0,2
+1311,124.0,984,Karanjade,1.0,3
+1312,68.0,640,Karanjade,1.0,1
+1313,82.0,975,Karanjade,6.0,2
+1314,88.0,975,Karanjade,1.0,3
+1315,125.0,1035,Karanjade,2.0,2
+1316,53.0,620,Karanjade,2.0,2
+1317,146.0,680,Karanjade,2.0,2
+1318,28.88,700,Karjat,2.0,2
+1319,28.98,688,Karjat,2.0,2
+1320,28.86,966,Karjat,2.0,2
+1321,28.98,688,Karjat,5.0,2
+1322,28.86,966,Karjat,3.0,1
+1323,21.1,900,Khar West,1.0,3
+1324,68.0,1800,Khar West,3.0,2
+1325,68.0,1800,Khar West,3.0,2
+1326,83.0,1175,Khar West,2.0,3
+1327,65.0,1500,Khar West,1.0,3
+1328,36.0,2800,Khar West,2.0,2
+1329,150.0,1600,Khar West,2.0,4
+1330,155.0,1120,Khar West,2.0,3
+1331,27.0,942,Khar West,2.0,2
+1332,48.5,720,Kharghar,2.0,1
+1334,125.0,1550,Kharghar,4.0,3
+1335,150.0,1680,Kharghar,6.0,2
+1338,110.0,1060,Kharghar,2.0,3
+1339,105.0,1095,Kharghar,2.0,2
+1340,105.0,1150,Kharghar,2.0,3
+1344,160.0,2200,Kharghar,3.0,2
+1345,170.0,2235,Kharghar,1.0,2
+1346,95.0,1025,Kharghar,3.0,2
+1347,95.0,950,Kharghar,2.0,2
+1349,130.0,1197,Kharghar,2.0,3
+1350,137.0,1380,Kharghar,2.0,3
+1351,80.0,1050,Kharghar,3.0,1
+1352,105.0,1240,Kharghar,3.0,2
+1359,65.0,650,Kharghar,1.0,1
+1361,55.0,670,Kharghar,2.0,1
+1362,60.0,740,Kharghar,2.0,1
+1363,42.0,680,Kharghar,2.0,1
+1364,165.0,1635,Kharghar,2.0,3
+1365,113.99999,1550,Kharghar,3.0,3
+1366,135.0,1500,Kharghar,3.0,3
+1367,45.0,660,Kharghar,2.0,1
+1369,130.0,1800,Kharghar,5.0,3
+1370,155.0,1645,Kharghar,2.0,4
+1371,130.0,1395,Kharghar,8.0,3
+1373,94.0,1200,Kharghar,2.0,2
+1376,60.0,765,Kharghar,3.0,1
+1378,175.0,1760,Kharghar,2.0,2
+1379,120.0,1415,Kharghar,3.0,3
+1380,150.0,1685,Kharghar,2.0,2
+1381,130.0,1800,Kharghar,2.0,1
+1382,166.0,1650,Kharghar,3.0,2
+1383,130.0,1395,Kharghar,1.0,3
+1384,94.0,1200,Kharghar,6.0,2
+1385,166.0,1650,Kharghar,2.0,2
+1386,130.0,1395,Kharghar,2.0,3
+1390,135.0,1390,Kharghar,6.0,3
+1391,175.0,1760,Kharghar,2.0,2
+1392,178.0,1716,Kharghar,2.0,4
+1393,140.0,1680,Kharghar,4.0,3
+1394,72.0,1050,Kharghar,2.0,1
+1396,150.0,1635,Kharghar,4.0,2
+1397,100.0,1078,Kharghar,2.0,2
+1398,175.0,1760,Kharghar,2.0,2
+1399,110.0,1415,Kharghar,3.0,1
+1400,130.0,1800,Kharghar,3.0,5
+1401,125.0,1147,Kharghar,1.0,3
+1402,150.0,1300,Kharghar,2.0,3
+1404,50.0,550,Kharghar,3.0,1
+1408,155.0,1700,Kharghar,4.0,2
+1409,165.0,1635,Kharghar,4.0,2
+1410,113.99999,1550,Kharghar,2.0,3
+1411,135.0,1500,Kharghar,3.0,3
+1412,160.0,1750,Kharghar,2.0,2
+1413,110.0,1415,Kharghar,7.0,2
+1414,166.0,1650,Kharghar,3.0,2
+1415,140.0,1687,Kharghar,3.0,2
+1417,75.0,1050,Kharghar,4.0,1
+1419,60.0,740,Kharghar,2.0,1
+1422,135.0,1400,Kharghar,2.0,4
+1423,160.0,1750,Kharghar,2.0,3
+1424,150.0,1780,Kharghar,7.0,3
+1425,140.0,1687,Kharghar,2.0,1
+1431,110.0,1415,Kharghar,2.0,2
+1432,140.0,1550,Kharghar,3.0,3
+1433,171.0,1760,Kharghar,4.0,2
+1434,160.0,1750,Kharghar,3.0,3
+1435,118.0,1475,Kharghar,2.0,3
+1436,45.0,550,Kharghar,2.0,1
+1439,45.0,580,Kharghar,2.0,1
+1440,190.0,1845,Kharghar,3.0,2
+1441,155.0,1700,Kharghar,1.0,1
+1442,135.0,1400,Kharghar,1.0,3
+1443,136.0,1680,Kharghar,1.0,2
+1444,155.0,1645,Kharghar,2.0,4
+1445,165.0,1585,Kharghar,3.0,3
+1447,100.0,1075,Kharghar,3.0,2
+1448,105.0,1155,Kharghar,2.0,3
+1452,100.0,1505,Kharghar,4.0,3
+1453,130.0,1630,Kharghar,2.0,3
+1454,110.0,1550,Kharghar,5.0,3
+1455,160.0,1750,Kharghar,2.0,3
+1456,105.0,1098,Kharghar,2.0,2
+1458,110.0,1550,Kharghar,2.0,3
+1459,110.0,1550,Kharghar,2.0,2
+1460,130.0,1630,Kharghar,2.0,2
+1461,136.0,1680,Kharghar,2.0,1
+1462,162.0,1650,Kharghar,2.0,4
+1463,150.0,1440,Kharghar,2.0,1
+1464,132.0,1370,Kharghar,2.0,2
+1465,150.0,1760,Kharghar,2.0,1
+1467,162.0,1675,Kharghar,3.0,3
+1468,110.0,1060,Kharghar,3.0,3
+1469,116.0,1150,Kharghar,3.0,2
+1471,95.0,1088,Kharghar,6.0,2
+1473,145.0,1360,Kharghar,2.0,3
+1474,115.0,1250,Kharghar,2.0,2
+1475,149.0,1550,Kharghar,3.0,3
+1476,121.0,1251,Kharghar,2.0,2
+1479,175.0,1750,Kharghar,4.0,3
+1480,94.0,1240,Kharghar,2.0,2
+1481,165.0,1560,Kharghar,2.0,4
+1482,80.0,1050,Kharghar,2.0,1
+1483,102.0,1230,Kharghar,2.0,2
+1484,95.0,852,Kharghar,2.0,2
+1485,175.0,1600,Kharghar,3.0,1
+1486,100.0,1140,Kharghar,2.0,3
+1487,165.0,1502,Kharghar,2.0,2
+1488,175.0,1600,Kharghar,2.0,3
+1489,140.0,1600,Kharghar,3.0,3
+1490,100.0,1140,Kharghar,3.0,3
+1492,125.0,1725,Kharghar,3.0,3
+1493,135.0,1256,Kharghar,3.0,3
+1494,165.0,1600,Kharghar,2.0,2
+1495,165.0,1600,Kharghar,3.0,2
+1496,125.0,1725,Kharghar,2.0,2
+1497,160.0,1680,Kharghar,3.0,1
+1498,170.0,1810,Kharghar,4.0,2
+1499,100.0,1325,Kharghar,3.0,3
+1500,125.0,1725,Kharghar,4.0,4
+1501,95.0,1210,Kharghar,2.0,2
+1502,160.0,1680,Kharghar,4.0,3
+1503,170.0,1810,Kharghar,4.0,3
+1504,100.0,1325,Kharghar,2.0,2
+1505,125.0,1725,Kharghar,2.0,3
+1507,123.0,1305,Kharghar,2.0,3
+1508,116.0,1230,Kharghar,2.0,2
+1509,160.0,1725,Kharghar,2.0,2
+1510,96.0,1210,Kharghar,2.0,1
+1511,165.0,1660,Kharghar,3.0,2
+1512,185.0,1700,Kharghar,2.0,4
+1513,155.0,1130,Kharghar,2.0,2
+1514,179.0,1810,Kharghar,2.0,4
+1515,133.0,1482,Kharghar,4.0,3
+1516,112.0,1025,Kharghar,2.0,2
+1517,110.0,1131,Kharghar,6.0,3
+1520,99.0,1150,Kharghar,2.0,2
+1521,185.0,1700,Kharghar,2.0,1
+1523,142.0,1800,Kharghar,4.0,4
+1524,155.0,1605,Kharghar,2.0,2
+1526,105.0,1580,Kharghar,2.0,3
+1527,110.0,1255,Kharghar,2.0,3
+1528,101.0,1580,Kharghar,2.0,2
+1529,100.0,1100,Kharghar,3.0,2
+1530,130.0,1150,Kharghar,2.0,3
+1531,162.0,1850,Kharghar,2.0,1
+1532,135.0,1235,Kharghar,2.0,4
+1533,102.0,1050,Kharghar,2.0,3
+1534,135.0,1235,Kharghar,3.0,4
+1535,142.0,1440,Kharghar,3.0,3
+1536,160.0,1600,Kharghar,2.0,3
+1540,118.0,1150,Kharghar,1.0,2
+1541,136.0,1760,Kharghar,6.0,3
+1543,111.0,4000,Kharghar,2.0,1
+1544,111.0,4000,Kharghar,2.0,4
+1547,155.0,1185,Kharghar,3.0,3
+1548,155.0,1435,Kharghar,2.0,3
+1552,96.0,650,Kharghar,3.0,2
+1553,110.0,1083,Kharghar,3.0,3
+1554,48.0,1364,Kharghar,2.0,1
+1556,110.0,1083,Kharghar,2.0,3
+1560,155.0,1530,Kharghar,12.0,4
+1562,84.0,1415,Kharghar,3.0,1
+1563,120.0,1414,Kharghar,2.0,2
+1565,115.0,640,Kharghar,3.0,2
+1567,160.0,1000,Kharghar,4.0,2
+1568,145.0,1600,Kharghar,2.0,3
+1570,95.0,675,Kharghar,5.0,2
+1572,110.0,800,Kharghar,2.0,2
+1574,105.0,1200,Kharghar,4.0,2
+1575,111.0,911,Kharghar,2.0,2
+1576,127.0,1117,Kharghar,2.0,3
+1578,98.0,650,Kharghar,2.0,2
+1579,130.0,1463,Kharghar,2.0,3
+1580,55.0,1500,Kharghar,4.0,1
+1581,105.0,1300,Kharghar,3.0,3
+1583,55.0,600,Kharghar,1.0,1
+1586,160.0,1300,Kharghar,2.0,1
+1587,145.0,1600,Kharghar,3.0,3
+1590,110.0,914,Kharghar,8.0,2
+1591,80.0,1100,Kharghar,3.0,1
+1592,160.0,1000,Kharghar,5.0,3
+1593,145.0,1600,Kharghar,2.0,3
+1595,80.0,1050,Kharghar,2.0,1
+1597,130.0,675,Kharghar,2.0,2
+1598,105.0,1200,Kharghar,2.0,4
+1599,111.0,911,Kharghar,4.0,1
+1600,127.0,1117,Kharghar,4.0,3
+1602,100.0,1090,Kharghar,2.0,1
+1603,130.0,1463,Kharghar,2.0,2
+1606,150.0,860,Kharghar,2.0,2
+1607,105.0,1300,Kharghar,3.0,2
+1609,160.0,1300,Kharghar,4.0,2
+1610,145.0,1600,Kharghar,3.0,2
+1612,80.0,1050,Kharghar,2.0,1
+1613,110.0,914,Kharghar,6.0,3
+1618,105.0,1300,Kharghar,4.0,4
+1622,160.0,1300,Kharghar,2.0,2
+1623,145.0,1600,Kharghar,2.0,4
+1624,95.0,1655,Kharghar,2.0,2
+1629,135.0,1500,Kharghar,2.0,3
+1636,95.0,1050,Kharghar,3.0,2
+1640,137.0,1120,Kharghar,2.0,2
+1642,95.0,1120,Kharghar,5.0,2
+1646,95.0,1600,Kharghar,2.0,1
+1647,150.0,1120,Kharghar,1.0,3
+1649,42.0,735,Kharghar,2.0,1
+1651,85.0,1580,Kharghar,4.0,1
+1654,135.0,620,Kharghar,3.0,2
+1655,155.0,1677,Kharghar,3.0,2
+1656,105.0,1600,Kharghar,4.0,4
+1658,95.0,1075,Kharghar,3.0,2
+1666,101.0,1530,Kharghar,9.0,3
+1668,120.0,1380,Kharghar,4.0,3
+1671,130.0,1530,Kharghar,3.0,2
+1672,120.0,1498,Kharghar,3.0,3
+1676,145.0,1215,Kharghar,2.0,3
+1677,185.0,2700,Kharghar,2.0,3
+1678,140.0,1650,Kharghar,2.0,3
+1679,140.0,1100,Kharghar,2.0,3
+1680,125.0,1150,Kharghar,2.0,3
+1685,90.0,1031,Kharghar,2.0,1
+1686,100.0,1031,Kharghar,4.0,3
+1688,105.0,1080,Kharghar,2.0,3
+1691,135.0,1525,Kharghar,2.0,1
+1692,135.0,1370,Kharghar,3.0,3
+1695,140.0,1150,Kharghar,2.0,3
+1698,175.0,950,Kharghar,2.0,3
+1699,125.0,650,Kharghar,4.0,2
+1700,145.0,1650,Kharghar,2.0,2
+1702,70.0,625,Kharghar,2.0,1
+1703,105.0,950,Kharghar,2.0,2
+1709,59.0,650,Kharghar,2.0,1
+1710,65.0,1150,Kharghar,2.0,1
+1714,115.0,711,Kharghar,2.0,2
+1715,80.0,1270,Kharghar,5.0,1
+1719,170.0,1450,Kharghar,2.0,1
+1722,85.0,1050,Kharghar,3.0,1
+1723,155.0,1100,Kharghar,3.0,2
+1725,98.0,1240,Kharghar,3.0,2
+1728,135.0,1240,Kharghar,4.0,1
+1732,127.0,1240,Kharghar,2.0,2
+1734,120.0,1100,Kharghar,2.0,2
+1739,110.0,585,Kharghar,2.0,1
+1742,110.0,1000,Kharghar,2.0,3
+1743,120.0,1100,Kharghar,2.0,2
+1744,95.0,1400,Kharghar,2.0,2
+1750,140.0,1660,Kharghar,1.0,2
+1751,76.0,750,Kharghar,2.0,1
+1757,145.0,1096,Kharghar,3.0,3
+1759,137.99999,1697,Kharghar,3.0,2
+1760,137.99999,1100,Kharghar,2.0,3
+1761,145.0,1257,Kharghar,2.0,2
+1763,110.0,1309,Kharghar,2.0,2
+1764,120.0,1000,Kharghar,5.0,3
+1766,130.0,950,Kharghar,2.0,2
+1767,140.0,650,Kharghar,2.0,2
+1768,140.0,1050,Kharghar,2.0,3
+1769,59.99,1190,Kharghar,3.0,1
+1771,95.0,1600,Kharghar,1.0,2
+1772,140.0,650,Kharghar,3.0,2
+1773,190.0,1234,Kharghar,3.0,3
+1777,120.0,1050,Kharghar,3.0,2
+1778,95.0,1050,Kharghar,3.0,2
+1779,80.0,650,Kharghar,2.0,1
+1782,120.0,1250,Kolshet Road,3.0,3
+1783,103.0,1210,Kolshet Road,2.0,3
+1784,120.0,1250,Kolshet Road,7.0,2
+1785,103.0,1210,Kolshet Road,3.0,4
+1786,88.0,1050,Kolshet Road,2.0,2
+1787,117.0,1650,Koper Khairane,2.0,3
+1788,117.0,1650,Koper Khairane,2.0,1
+1789,80.0,1150,Koper Khairane,2.0,2
+1790,60.0,700,Koper Khairane,2.0,2
+1791,60.0,700,Koper Khairane,4.0,2
+1792,65.0,685,Koper Khairane,2.0,2
+1793,95.0,620,Koper Khairane,2.0,1
+1794,112.0,675,Koper Khairane,2.0,2
+1795,50.0,1750,Koper Khairane,2.0,2
+1796,175.0,950,Koper Khairane,3.0,2
+1797,140.0,1075,Koper Khairane,3.0,1
+1798,72.98999,1800,Koper Khairane,6.0,4
+1799,180.0,950,Koper Khairane,2.0,3
+1800,130.0,989,Koper Khairane,2.0,3
+1801,80.0,1500,Koper Khairane,2.0,2
+1802,42.0,790,Koproli,2.0,2
+1804,40.0,990,Koproli,6.0,2
+1805,21.0,870,Koproli,5.0,2
+1806,40.0,870,Koproli,2.0,2
+1807,250.0,850,Koproli,2.0,2
+1808,120.0,550,Koproli,2.0,1
+1809,42.75,650,Koproli,4.0,2
+1810,175.0,650,Koproli,2.0,2
+1811,42.0,600,Koproli,2.0,2
+1812,115.0,1100,Koproli,2.0,3
+1813,180.0,590,Koproli,1.0,1
+1814,42.6,630,Koproli,4.0,2
+1815,195.0,670,Koproli,3.0,2
+1816,110.0,780,Kurla,2.0,1
+1817,75.98999,700,Kurla,2.0,1
+1818,78.98999,700,Kurla,3.0,2
+1819,115.0,680,Kurla,2.0,1
+1820,110.0,1676,Kurla,2.0,2
+1821,49.0,750,Kurla,2.0,2
+1822,165.0,1120,Kurla West,3.0,2
+1823,90.0,695,Kurla West,2.0,2
+1824,82.0,1350,Kurla West,3.0,2
+1825,79.98999,900,Kurla West,3.0,3
+1826,77.98999,690,Kurla West,3.0,2
+1827,79.98999,1100,Kurla West,4.0,2
+1828,75.0,410,Kurla West,4.0,1
+1829,420.0,1200,Lower Parel,2.0,2
+1830,1014.0,2880,Lower Parel,3.0,2
+1831,450.0,1168,Lower Parel,6.0,1
+1832,550.0,1388,Lower Parel,2.0,3
+1833,600.0,2500,Lower Parel,3.0,3
+1834,250.0,6381,Lower Parel,3.0,2
+1835,135.0,1557,Lower Parel,1.0,2
+1836,89.99,1040,Lower Parel,2.0,3
+1840,270.0,1550,Magathane,3.0,2
+1841,221.0,1075,Magathane,2.0,1
+1842,210.0,1150,Magathane,3.0,2
+1843,221.0,1075,Magathane,2.0,1
+1845,185.0,1350,Magathane,3.0,2
+1846,270.0,1650,Magathane,2.0,2
+1849,225.0,1100,Magathane,3.0,2
+1850,265.0,1450,Magathane,2.0,4
+1851,205.0,1150,Magathane,3.0,2
+1852,205.0,1050,Magathane,1.0,2
+1854,210.0,1250,Magathane,2.0,2
+1855,175.0,1050,Magathane,4.0,1
+1856,270.0,1650,Magathane,4.0,3
+1857,270.0,1650,Magathane,4.0,2
+1858,205.0,1150,Magathane,2.0,2
+1859,265.0,1450,Magathane,2.0,2
+1860,185.0,1350,Magathane,2.0,2
+1862,225.0,1100,Magathane,2.0,1
+1865,240.0,1250,Magathane,2.0,3
+1866,250.0,1250,Magathane,2.0,2
+1867,240.0,1250,Magathane,7.0,3
+1868,250.0,1250,Magathane,2.0,1
+1869,96.0,1209,Majiwada,3.0,1
+1870,64.98,1170,Majiwada,1.0,3
+1871,64.98,1170,Majiwada,2.0,2
+1872,59.0,800,Majiwada,1.0,2
+1873,195.0,1200,Malad East,4.0,3
+1875,375.0,2780,Malad East,3.0,3
+1876,310.0,1672,Malad East,3.0,2
+1880,205.0,1457,Malad East,2.0,3
+1881,275.0,1600,Malad East,2.0,2
+1882,210.0,1280,Malad East,4.0,4
+1883,215.0,1280,Malad East,2.0,4
+1884,200.0,1250,Malad East,3.0,4
+1890,180.0,994,Malad East,2.0,3
+1891,149.0,1200,Malad East,2.0,1
+1892,325.0,806,Malad East,2.0,1
+1898,255.0,1850,Malad East,2.0,1
+1900,160.0,2310,Malad East,2.0,1
+1902,220.0,2310,Malad East,2.0,3
+1904,275.0,1055,Malad East,4.0,3
+1908,325.99999,2580,Malad East,2.0,1
+1909,233.0,2120,Malad East,1.0,3
+1910,290.0,1290,Malad East,3.0,1
+1912,220.0,1250,Malad East,2.0,3
+1921,51.5,1760,Malad East,4.0,5
+1923,270.0,1290,Malad East,5.0,3
+1925,374.0,910,Malad East,3.0,3
+1927,385.0,1250,Malad East,3.0,3
+1928,250.0,1250,Malad East,4.0,3
+1929,220.0,1100,Malad West,2.0,3
+1930,237.0,1450,Malad West,2.0,2
+1931,214.0,1100,Malad West,3.0,3
+1932,115.0,560,Malad West,2.0,1
+1933,110.0,600,Malad West,3.0,1
+1934,140.0,1185,Malad West,2.0,2
+1935,265.0,1305,Malad West,2.0,1
+1937,401.99999,1850,Malad West,2.0,2
+1938,215.0,1310,Malad West,3.0,2
+1939,160.0,970,Malad West,6.0,3
+1940,233.0,1500,Malad West,2.0,3
+1941,132.0,935,Malad West,1.0,1
+1942,205.0,750,Malad West,2.0,2
+1943,128.0,750,Malad West,6.0,1
+1947,28.16,840,Malad West,2.0,1
+1948,190.0,1630,Malad West,3.0,3
+1949,270.0,1350,Malad West,3.0,3
+1950,215.0,1601,Malad West,2.0,3
+1956,200.0,1000,Malad West,1.0,1
+1957,160.0,1000,Malad West,3.0,2
+1958,43.0,900,Malad West,2.0,1
+1959,180.0,600,Malad West,3.0,2
+1960,137.99999,1050,Malad West,2.0,2
+1962,214.0,1101,Malad West,3.0,3
+1965,145.0,1140,Malad West,3.0,3
+1968,163.99999,1600,Malad West,2.0,3
+1969,190.0,1450,Malad West,2.0,2
+1971,370.0,1450,Malad West,2.0,3
+1973,140.0,1135,Malad West,2.0,1
+1974,180.0,1280,Malad West,7.0,3
+1975,205.0,710,Malad West,1.0,2
+1976,85.0,310,Malad West,1.0,1
+1977,451.99999,725,Malad West,2.0,2
+1979,260.0,1400,Malad West,4.0,3
+1987,140.0,750,Malad West,2.0,2
+1989,95.0,1100,Malad West,5.0,1
+1990,98.0,700,Malad West,2.0,1
+1991,108.0,750,Malad West,2.0,1
+1998,425.0,1804,Malad West,2.0,3
+1999,420.0,1440,Malad West,4.0,2
+2002,82.0,1100,Malad West,4.0,1
+2003,361.0,1068,Malad West,2.0,2
+2005,137.0,750,Malad West,2.0,2
+2006,137.0,1350,Malad West,3.0,2
+2010,45.0,750,Malad West,4.0,1
+2011,130.0,750,Malad West,5.0,2
+2015,137.0,750,Malad West,3.0,2
+2020,120.0,614,Malad West,2.0,2
+2021,170.0,950,Malad West,4.0,3
+2024,235.0,1050,Malad West,3.0,2
+2026,377.0,1815,Malad West,2.0,3
+2027,390.0,1600,Malad West,3.0,3
+2028,56.0,710,Mira Road East,2.0,1
+2029,60.0,650,Mira Road East,6.0,1
+2035,160.0,1944,Mira Road East,3.0,4
+2036,100.0,1340,Mira Road East,3.0,3
+2037,115.0,1340,Mira Road East,3.0,3
+2038,80.09999,965,Mira Road East,3.0,1
+2040,50.0,1055,Mira Road East,1.0,1
+2041,185.0,675,Mira Road East,2.0,1
+2049,65.59999,650,Mira Road East,2.0,1
+2051,79.0,965,Mira Road East,3.0,1
+2053,95.0,965,Mira Road East,2.0,3
+2056,61.2,980,Mira Road East,2.0,1
+2059,115.0,1137,Mira Road East,2.0,3
+2061,166.0,950,Mira Road East,2.0,2
+2062,165.0,1053,Mira Road East,4.0,2
+2064,95.0,655,Mira Road East,4.0,1
+2066,94.5,1500,Mira Road East,2.0,3
+2067,86.0,1170,Mira Road East,2.0,3
+2068,113.99999,1026,Mira Road East,2.0,3
+2070,78.0,710,Mira Road East,2.0,1
+2073,106.0,972,Mira Road East,5.0,2
+2075,104.0,788,Mira Road East,3.0,2
+2078,73.2,710,Mira Road East,3.0,1
+2089,86.0,930,Mira Road East,3.0,3
+2090,95.0,950,Mira Road East,3.0,3
+2091,93.0,1050,Mira Road East,1.0,3
+2092,93.0,960,Mira Road East,3.0,3
+2093,97.0,960,Mira Road East,2.0,1
+2094,85.0,1100,Mira Road East,2.0,3
+2095,108.0,1235,Mira Road East,2.0,2
+2098,135.0,981,Mira Road East,3.0,2
+2100,95.0,693,Mira Road East,3.0,2
+2101,138.99999,981,Mira Road East,6.0,2
+2102,79.0,1185,Mira Road East,2.0,1
+2104,53.0,690,Mira Road East,2.0,1
+2109,78.84,1025,Mira Road East,2.0,1
+2111,120.0,1050,Mira Road East,2.0,3
+2112,80.0,1275,Mira Road East,3.0,1
+2116,95.0,1015,Mira Road East,2.0,2
+2117,86.0,1185,Mira Road East,2.0,3
+2118,182.0,950,Mira Road East,2.0,1
+2119,115.0,1185,Mira Road East,4.0,2
+2120,86.0,950,Mira Road East,2.0,2
+2121,140.0,1060,Mira Road East,4.0,2
+2122,108.0,1082,Mira Road East,2.0,3
+2127,140.0,925,Mira Road East,3.0,3
+2131,90.0,730,Mira Road East,3.0,2
+2132,115.0,1050,Mira Road East,4.0,3
+2133,141.0,1160,Mira Road East,2.0,2
+2136,85.0,1232,Mira Road East,2.0,3
+2140,71.0,956,Mira Road East,7.0,1
+2147,138.99999,675,Mira Road East,2.0,2
+2148,130.0,665,Mira Road East,9.0,2
+2149,115.0,1250,Mira Road East,3.0,3
+2150,112.99999,972,Mira Road East,3.0,2
+2151,92.0,1389,Mira Road East,5.0,3
+2152,97.0,981,Mira Road East,3.0,2
+2154,134.0,398,Mira Road East,2.0,1
+2155,97.74,783,Mira Road East,1.0,1
+2157,73.0,1137,Mira Road East,2.0,1
+2162,59.99,650,Mira Road East,1.0,1
+2164,95.99,1050,Mira Road East,2.0,2
+2168,150.0,850,Mira Road East,2.0,2
+2170,93.0,700,Mira Road East,3.0,2
+2171,80.53,575,Mira Road East,2.0,1
+2173,77.45999,424,Mira Road East,2.0,1
+2174,150.0,1137,Mira Road East,4.0,2
+2175,83.81999,421,Mira Road East,2.0,1
+2178,49.5,950,Mira Road East,2.0,1
+2179,97.74,783,Mira Road East,2.0,2
+2180,92.26,773,Mira Road East,2.0,2
+2182,80.0,349,Mira Road East,3.0,1
+2183,82.0,1098,Mira Road East,2.0,1
+2185,99.9,538,Mira Road East,2.0,1
+2186,115.0,981,Mira Road East,2.0,2
+2187,96.5,1386,Mira Road East,6.0,3
+2190,100.0,705,Mira Road East,2.0,1
+2192,75.0,750,Mira Road East,2.0,1
+2193,127.0,1102,Mira Road East,2.0,2
+2194,125.0,685,Mira Road East,3.0,2
+2198,159.0,925,Mira Road East,4.0,2
+2199,130.0,705,Mira Road East,2.0,2
+2200,93.0,1525,Mira Road East,2.0,3
+2201,168.0,1060,Mira Road East,2.0,2
+2202,160.0,1060,Mira Road East,4.0,2
+2203,150.0,990,Mira Road East,1.0,3
+2204,155.0,1341,Mira Road East,2.0,2
+2205,150.0,960,Mira Road East,3.0,3
+2211,90.0,1180,Mira Road East,2.0,3
+2212,88.0,1412,Mira Road East,2.0,3
+2213,132.0,960,Mira Road East,4.0,3
+2214,131.0,1073,Mira Road East,2.0,2
+2215,87.0,1525,Mira Road East,2.0,3
+2216,110.0,1412,Mira Road East,2.0,2
+2217,140.0,1400,Mira Road East,6.0,2
+2219,85.0,1050,Mira Road East,4.0,3
+2220,90.0,1160,Mira Road East,3.0,3
+2221,93.0,1050,Mira Road East,2.0,3
+2223,60.0,700,Mira Road East,3.0,1
+2224,120.0,1073,Mira Road East,3.0,3
+2226,137.0,1137,Mira Road East,2.0,2
+2227,130.0,972,Mira Road East,4.0,2
+2228,135.0,1944,Mira Road East,2.0,2
+2231,132.0,1060,Mira Road East,2.0,3
+2232,90.0,1160,Mira Road East,2.0,2
+2233,125.0,1341,Mira Road East,5.0,3
+2234,85.0,1400,Mira Road East,5.0,1
+2235,85.0,1525,Mira Road East,2.0,3
+2236,100.0,945,Mira Road East,2.0,1
+2237,115.0,645,Mira Road East,3.0,2
+2243,160.0,500,Mira Road East,10.0,1
+2244,125.0,960,Mira Road East,8.0,2
+2245,119.0,1050,Mira Road East,2.0,3
+2249,62.2,365,Mira Road East,3.0,1
+2250,80.0,349,Mira Road East,2.0,1
+2251,140.0,693,Mira Road East,2.0,2
+2252,100.0,981,Mira Road East,2.0,3
+2255,99.9,398,Mira Road East,3.0,1
+2256,176.0,773,Mira Road East,2.0,2
+2257,140.0,693,Mira Road East,3.0,2
+2258,129.0,981,Mira Road East,1.0,3
+2262,79.0,633,Mira Road East,1.0,1
+2264,130.0,981,Mira Road East,2.0,3
+2265,155.0,1386,Mira Road East,3.0,3
+2269,145.0,1180,Mira Road East,2.0,3
+2272,60.0,810,Mira Road and Beyond,2.0,2
+2273,58.0,770,Mira Road and Beyond,2.0,2
+2274,64.0,1180,Mira Road and Beyond,3.0,2
+2275,76.0,940,Mira Road and Beyond,2.0,3
+2276,64.0,1760,Mira Road and Beyond,3.0,2
+2277,55.0,1180,Mira Road and Beyond,4.0,2
+2278,76.0,940,Mira Road and Beyond,2.0,2
+2279,64.0,1760,Mira Road and Beyond,2.0,2
+2280,55.0,1180,Mira Road and Beyond,2.0,2
+2281,218.0,1412,Mulund,4.0,1
+2282,218.0,1412,Mulund,3.0,3
+2283,212.0,1412,Mulund,2.0,2
+2284,168.0,1180,Mulund,3.0,3
+2285,165.0,1180,Mulund,2.0,3
+2286,219.0,1180,Mulund,2.0,3
+2287,60.0,985,Mulund East,2.0,3
+2288,85.0,980,Mulund East,2.0,3
+2289,152.0,627,Mulund East,2.0,2
+2290,165.0,613,Mulund East,4.0,2
+2291,180.0,799,Mulund East,2.0,2
+2292,75.0,1700,Mulund East,2.0,3
+2293,170.0,1650,Mulund East,5.0,3
+2294,233.0,2600,Mulund West,1.0,2
+2295,97.5,720,Mulund West,6.0,2
+2296,180.0,1100,Mulund West,3.0,1
+2297,225.0,1654,Mulund West,4.0,2
+2299,225.0,927,Mulund West,2.0,3
+2301,199.0,697,Mulund West,2.0,2
+2302,198.0,664,Mulund West,1.0,2
+2303,112.0,1017,Mulund West,4.0,2
+2305,191.0,1160,Mulund West,4.0,3
+2306,221.0,1309,Mulund West,2.0,3
+2307,182.0,1306,Mulund West,2.0,2
+2308,200.0,797,Mulund West,2.0,2
+2309,209.0,1690,Mulund West,4.0,3
+2310,207.0,1960,Mulund West,2.0,2
+2311,195.0,1475,Mulund West,4.0,2
+2312,185.0,1165,Mulund West,1.0,2
+2313,241.0,661,Mulund West,4.0,2
+2314,200.99999,963,Mulund West,2.0,3
+2315,191.0,1017,Mulund West,5.0,2
+2316,202.0,821,Mulund West,2.0,2
+2317,238.0,685,Mulund West,3.0,2
+2319,200.0,1600,Mulund West,2.0,3
+2320,176.0,700,Mulund West,3.0,2
+2321,200.0,650,Mulund West,3.0,2
+2322,165.0,1000,Mulund West,2.0,2
+2323,225.0,1050,Mulund West,4.0,3
+2326,125.0,644,Mulund West,2.0,2
+2327,23.0,500,Naigaon East,3.0,1
+2328,22.0,600,Naigaon East,3.0,1
+2329,44.0,925,Naigaon East,3.0,1
+2330,20.0,1250,Naigaon East,2.0,2
+2331,23.0,1252,Naigaon East,2.0,3
+2332,35.0,850,Naigaon East,2.0,2
+2333,43.9,600,Naigaon East,3.0,2
+2334,33.0,600,Naigaon East,3.0,1
+2335,35.94,850,Nala Sopara,3.0,2
+2336,60.0,709,Nala Sopara,3.0,1
+2337,48.0,965,Nala Sopara,2.0,3
+2338,37.0,730,Nala Sopara,2.0,1
+2340,65.0,620,Nala Sopara,2.0,2
+2341,33.0,665,Nala Sopara,2.0,1
+2344,27.0,610,Nala Sopara,2.0,1
+2346,24.85,590,Nala Sopara,3.0,1
+2347,28.5,585,Nala Sopara,4.0,1
+2350,40.0,635,Nala Sopara,2.0,1
+2351,39.0,675,Nala Sopara,2.0,2
+2352,50.0,950,Nala Sopara,2.0,2
+2353,34.0,1050,Nala Sopara,2.0,3
+2356,36.0,650,Nala Sopara,2.0,2
+2358,41.5,655,Nala Sopara,2.0,2
+2359,65.0,750,Nala Sopara,6.0,2
+2360,48.0,945,Nala Sopara,3.0,2
+2361,52.0,945,Nala Sopara,3.0,1
+2362,35.0,950,Nala Sopara,2.0,3
+2363,47.5,580,Nala Sopara,3.0,1
+2364,50.0,950,Nala Sopara,2.0,3
+2366,49.0,680,Nala Sopara,2.0,1
+2367,52.0,980,Nala Sopara,2.0,3
+2368,46.0,980,Nala Sopara,1.0,3
+2369,29.0,910,Nala Sopara,2.0,1
+2371,28.0,590,Nala Sopara,6.0,1
+2372,34.0,550,Nala Sopara,3.0,1
+2374,23.0,560,Nala Sopara,2.0,1
+2375,38.0,610,Nala Sopara,1.0,1
+2377,26.5,450,Nala Sopara,2.0,1
+2378,39.0,630,Nala Sopara,2.0,2
+2381,32.5,585,Nala Sopara,2.0,1
+2382,40.0,620,Nala Sopara,3.0,1
+2385,25.0,594,Nala Sopara,3.0,1
+2388,24.0,585,Nala Sopara,4.0,1
+2389,21.5,535,Nala Sopara,3.0,1
+2390,27.0,445,Nala Sopara,2.0,1
+2392,24.0,580,Nala Sopara,4.0,1
+2396,85.0,550,Nala Sopara,5.0,1
+2397,48.0,950,Nalasopara East,4.0,3
+2398,39.0,970,Nalasopara East,1.0,2
+2399,110.0,700,Nalasopara East,3.0,2
+2400,85.0,525,Nalasopara East,3.0,1
+2401,34.0,1050,Nalasopara East,4.0,2
+2402,35.0,975,Nalasopara East,2.0,3
+2403,304.0,670,Nalasopara East,2.0,2
+2404,40.0,970,Nalasopara East,2.0,1
+2405,30.0,545,Nalasopara West,3.0,1
+2406,40.99,615,Nalasopara West,4.0,2
+2407,26.5,850,Nalasopara West,2.0,1
+2408,22.5,630,Nalasopara West,2.0,2
+2409,185.0,1250,Nerul,3.0,2
+2410,145.0,1100,Nerul,3.0,3
+2411,65.0,650,Nerul,4.0,1
+2412,80.0,715,Nerul,2.0,2
+2413,250.0,1950,Nerul,3.0,4
+2414,105.0,1855,Nerul,2.0,2
+2415,95.0,650,Nerul,2.0,2
+2416,80.0,1310,Nerul,3.0,2
+2417,220.0,1250,Nerul,2.0,4
+2418,258.0,1215,Nerul,4.0,3
+2419,167.0,1150,Nerul,3.0,2
+2421,150.0,2000,Nerul,2.0,3
+2426,75.0,1022,Other,3.0,1
+2427,450.0,1717,Other,3.0,4
+2429,325.0,997,Other,2.0,3
+2430,185.0,1038,Other,2.0,2
+2431,501.0,2800,Other,2.0,3
+2432,341.0,1500,Other,3.0,5
+2433,179.0,1000,Other,3.0,3
+2434,195.0,1050,Other,2.0,3
+2435,195.0,1014,Other,5.0,1
+2439,101.0,1265,Other,3.0,1
+2443,501.0,2800,Other,3.0,3
+2447,40.0,600,Other,3.0,1
+2448,36.0,580,Other,2.0,1
+2455,217.0,900,Other,3.0,2
+2456,167.0,1150,Other,2.0,1
+2458,217.0,900,Other,4.0,3
+2460,360.0,900,Other,2.0,1
+2461,350.0,800,Other,4.0,2
+2464,27.0,350,Other,2.0,1
+2465,110.0,550,Other,4.0,1
+2466,361.0,1237,Other,4.0,2
+2468,361.0,1237,Other,2.0,3
+2471,72.0,952,Other,4.0,1
+2472,111.0,1310,Other,2.0,1
+2475,465.0,1413,Other,3.0,3
+2479,170.0,1760,Other,1.0,3
+2480,170.0,1245,Other,2.0,3
+2481,188.0,1350,Other,3.0,2
+2482,180.0,1350,Other,2.0,2
+2483,190.0,1350,Other,5.0,1
+2484,145.0,950,Other,2.0,3
+2485,260.0,1350,Other,2.0,3
+2486,170.0,1760,Other,2.0,2
+2488,176.0,1100,Other,3.0,3
+2489,260.0,1350,Other,3.0,2
+2490,190.0,1350,Other,3.0,4
+2491,180.0,1350,Other,2.0,3
+2492,191.0,1100,Other,2.0,2
+2494,280.0,1580,Other,3.0,5
+2495,215.0,1345,Other,2.0,4
+2496,195.0,1225,Other,2.0,2
+2498,348.0,950,Other,4.0,2
+2502,585.0,3410,Other,4.0,4
+2503,64.0,506,Other,3.0,1
+2508,32.0,410,Other,3.0,1
+2510,87.0,1160,Other,2.0,1
+2512,185.0,1150,Other,2.0,1
+2513,170.0,999,Other,5.0,3
+2514,160.0,900,Other,1.0,2
+2515,200.0,900,Other,2.0,1
+2516,210.0,900,Other,2.0,2
+2517,185.0,1200,Other,3.0,2
+2518,205.0,900,Other,2.0,3
+2519,160.0,1550,Other,2.0,2
+2523,150.0,1500,Other,2.0,2
+2528,140.0,1320,Other,3.0,3
+2533,150.0,1300,Other,3.0,3
+2534,127.0,1125,Other,3.0,1
+2536,50.0,650,Other,2.0,1
+2538,70.0,735,Other,2.0,1
+2539,46.0,600,Other,2.0,1
+2541,115.0,1182,Other,1.0,1
+2546,105.0,1136,Other,3.0,1
+2550,150.0,1300,Other,3.0,2
+2554,115.0,1182,Other,8.0,1
+2557,210.0,1771,Other,2.0,2
+2558,160.0,1650,Other,2.0,3
+2560,145.0,1250,Other,2.0,3
+2562,115.0,1227,Other,2.0,1
+2563,175.0,1630,Other,2.0,4
+2566,190.0,1500,Other,2.0,3
+2567,105.0,900,Other,2.0,1
+2568,290.0,1050,Other,7.0,2
+2569,90.0,990,Other,2.0,1
+2571,80.0,806,Other,2.0,1
+2572,190.0,1050,Other,2.0,2
+2573,230.0,925,Other,3.0,1
+2579,140.0,1530,Other,3.0,1
+2580,500.0,7000,Other,2.0,3
+2581,132.0,768,Other,5.0,1
+2582,150.0,971,Other,3.0,1
+2586,240.0,1250,Other,3.0,4
+2588,23.99,620,Other,2.0,1
+2589,330.0,1650,Other,4.0,1
+2590,330.0,1800,Other,2.0,4
+2591,350.0,1835,Other,3.0,4
+2592,245.0,1300,Other,2.0,4
+2595,21.1,495,Other,2.0,1
+2596,230.0,1265,Other,2.0,2
+2597,160.0,1944,Other,2.0,4
+2601,210.0,890,Other,2.0,2
+2602,180.0,2150,Other,3.0,4
+2603,315.0,1135,Other,2.0,2
+2604,425.0,1010,Other,2.0,2
+2606,38.0,1426,Other,3.0,1
+2609,180.0,2150,Other,2.0,4
+2617,200.0,1300,Other,2.0,3
+2618,250.0,1350,Other,2.0,2
+2620,235.0,1050,Other,10.0,3
+2622,145.0,695,Other,1.0,2
+2623,168.0,950,Other,2.0,3
+2625,200.0,1300,Other,2.0,3
+2626,250.0,1350,Other,3.0,2
+2631,80.0,550,Other,2.0,1
+2633,54.0,500,Other,6.0,1
+2637,530.0,1050,Other,3.0,3
+2638,57.0,1900,Other,2.0,1
+2641,145.0,1155,Other,2.0,2
+2642,180.0,1733,Other,2.0,3
+2644,170.0,642,Other,3.0,2
+2646,115.0,495,Other,2.0,1
+2647,250.0,800,Other,2.0,2
+2654,600.0,4200,Other,3.0,3
+2655,250.0,2305,Other,2.0,2
+2656,550.0,2500,Other,3.0,1
+2657,500.0,1225,Other,3.0,3
+2659,400.0,800,Other,2.0,2
+2662,33.0,3500,Other,2.0,1
+2663,600.0,4200,Other,2.0,2
+2669,135.0,650,Other,1.0,1
+2670,72.0,1560,Other,2.0,1
+2673,145.0,1220,Other,2.0,2
+2677,355.0,1475,Other,2.0,2
+2684,115.0,1109,Other,2.0,1
+2685,185.0,1065,Other,2.0,2
+2686,285.0,1130,Other,3.0,3
+2688,285.0,1065,Other,2.0,3
+2690,525.0,3168,Other,2.0,3
+2694,121.0,8511,Other,3.0,1
+2700,35.0,690,Other,2.0,1
+2702,148.0,1450,Other,1.0,2
+2706,38.5,1221,Other,4.0,1
+2707,190.0,1171,Other,3.0,3
+2708,135.0,1503,Other,2.0,1
+2710,78.0,550,Other,2.0,1
+2713,195.0,1200,Other,1.0,3
+2714,170.0,1400,Other,2.0,3
+2717,160.0,600,Other,3.0,2
+2718,275.0,650,Other,3.0,1
+2719,180.0,1250,Other,2.0,3
+2720,149.0,1010,Other,4.0,1
+2721,260.0,1000,Other,2.0,3
+2723,290.0,2453,Other,2.0,4
+2724,550.0,1135,Other,2.0,1
+2725,135.0,1500,Other,3.0,3
+2726,195.0,1200,Other,2.0,3
+2727,200.0,1400,Other,2.0,2
+2732,110.0,833,Other,4.0,1
+2733,68.0,625,Other,2.0,1
+2734,595.0,620,Other,4.0,1
+2735,450.0,990,Other,4.0,2
+2737,325.0,1680,Other,2.0,2
+2738,148.0,2415,Other,2.0,2
+2751,222.0,764,Other,2.0,2
+2752,85.0,995,Other,3.0,1
+2756,350.0,1600,Other,4.0,2
+2760,225.0,1100,Other,3.0,3
+2761,190.0,1900,Other,3.0,3
+2762,270.0,1600,Other,2.0,3
+2763,175.0,2300,Other,2.0,2
+2765,23.0,1120,Other,3.0,1
+2768,50.0,985,Other,7.0,1
+2772,150.0,1102,Other,5.0,2
+2775,190.0,1100,Other,1.0,2
+2776,150.0,1600,Other,2.0,3
+2778,225.0,1100,Other,2.0,3
+2779,190.0,1900,Other,4.0,3
+2781,165.0,1014,Other,2.0,3
+2786,145.0,627,Other,2.0,1
+2787,190.0,1020,Other,4.0,2
+2788,225.0,1290,Other,1.0,3
+2789,365.0,1495,Other,3.0,3
+2791,600.0,1318,Other,2.0,1
+2792,425.0,2436,Other,2.0,2
+2794,190.0,1000,Other,4.0,2
+2795,155.0,1411,Other,2.0,3
+2797,450.0,690,Other,3.0,2
+2801,50.0,650,Other,3.0,1
+2802,525.0,900,Other,2.0,3
+2805,400.0,1100,Other,2.0,2
+2807,179.0,1125,Other,7.0,2
+2809,179.0,1125,Other,4.0,2
+2810,82.0,480,Other,1.0,1
+2812,165.0,1287,Other,3.0,3
+2813,450.0,1180,Other,3.0,1
+2814,155.0,610,Other,3.0,2
+2815,160.0,610,Other,1.0,2
+2816,76.0,1130,Other,2.0,1
+2818,350.0,1095,Other,2.0,2
+2820,198.0,860,Other,2.0,2
+2822,170.0,950,Other,4.0,3
+2824,170.0,950,Other,3.0,3
+2827,365.0,750,Other,3.0,2
+2832,347.0,1195,Other,2.0,3
+2833,252.0,965,Other,2.0,2
+2836,513.0,815,Other,2.0,2
+2837,209.0,1096,Other,4.0,3
+2838,117.0,1350,Other,3.0,1
+2839,465.0,2475,Other,2.0,2
+2840,600.0,1015,Other,3.0,3
+2844,135.0,725,Other,2.0,1
+2845,180.0,800,Other,2.0,2
+2846,138.99999,550,Other,3.0,1
+2849,380.0,1820,Other,2.0,3
+2851,435.0,2000,Other,2.0,3
+2854,165.0,925,Other,3.0,3
+2855,159.0,1100,Other,3.0,2
+2856,254.0,680,Other,4.0,1
+2857,335.0,1509,Other,2.0,3
+2859,189.0,611,Other,1.0,2
+2860,20.75,671,Other,2.0,1
+2863,145.0,1330,Other,2.0,3
+2864,54.0,864,Other,2.0,1
+2878,200.0,1050,Other,2.0,2
+2883,235.0,1100,Other,2.0,2
+2884,260.0,1050,Other,6.0,3
+2886,150.0,1125,Other,2.0,3
+2887,515.0,777,Other,2.0,1
+2888,230.0,1170,Other,2.0,3
+2890,550.0,985,Other,2.0,3
+2892,374.0,925,Other,1.0,2
+2893,225.0,926,Other,4.0,3
+2895,46.0,890,Other,5.0,1
+2898,180.0,750,Other,2.0,1
+2900,550.0,3000,Other,2.0,3
+2901,180.0,1650,Other,1.0,2
+2907,21.0,770,Palghar,4.0,1
+2908,44.99,646,Palghar,2.0,2
+2909,148.0,967,Palghar,3.0,3
+2910,72.0,835,Palghar,2.0,2
+2911,98.0,846,Palghar,2.0,2
+2913,113.99999,1133,Panvel,2.0,2
+2915,165.0,1000,Panvel,6.0,1
+2919,97.45,686,Panvel,4.0,1
+2920,108.0,931,Panvel,2.0,2
+2921,22.0,816,Panvel,3.0,1
+2924,160.0,900,Panvel,2.0,2
+2929,89.0,930,Panvel,2.0,3
+2931,131.0,900,Panvel,2.0,1
+2932,131.0,2700,Panvel,8.0,2
+2934,93.0,1400,Panvel,2.0,3
+2935,95.0,1800,Panvel,2.0,2
+2938,68.0,700,Panvel,3.0,1
+2939,135.0,1400,Panvel,2.0,3
+2940,117.0,1440,Panvel,4.0,3
+2941,126.0,1440,Panvel,2.0,2
+2944,154.0,1051,Panvel,3.0,3
+2945,72.9,950,Panvel,2.0,1
+2949,75.0,750,Panvel,3.0,1
+2951,100.0,1300,Panvel,3.0,1
+2955,170.0,993,Panvel,2.0,2
+2958,152.0,2420,Panvel,8.0,3
+2959,82.87,2351,Panvel,4.0,3
+2960,79.3,1275,Panvel,2.0,3
+2962,130.0,755,Panvel,2.0,2
+2963,162.0,2010,Panvel,1.0,3
+2964,112.0,2495,Panvel,3.0,2
+2970,130.0,1220,Panvel,2.0,4
+2971,162.0,2010,Panvel,6.0,3
+2972,112.0,2495,Panvel,3.0,4
+2973,111.0,1726,Panvel,3.0,2
+2975,85.0,705,Panvel,5.0,1
+2976,125.0,1055,Panvel,7.0,3
+2977,169.0,1140,Panvel,2.0,3
+2978,118.0,2582,Panvel,8.0,3
+2980,45.0,800,Panvel,3.0,1
+2983,96.18,440,Panvel,2.0,1
+2986,170.0,1307,Panvel,2.0,3
+2988,112.99999,1771,Panvel,2.0,3
+2990,152.0,2621,Panvel,2.0,3
+2992,162.0,2420,Panvel,2.0,3
+2993,112.0,2351,Panvel,4.0,3
+2994,90.0,1275,Panvel,2.0,3
+2996,85.0,2010,Panvel,5.0,3
+3002,80.0,1280,Panvel,2.0,3
+3004,82.0,1005,Panvel,2.0,3
+3005,65.0,1005,Panvel,3.0,1
+3006,95.0,1055,Panvel,2.0,1
+3008,130.0,1075,Panvel,3.0,3
+3012,152.0,1005,Panvel,2.0,2
+3013,115.0,950,Panvel,7.0,3
+3014,169.0,1150,Panvel,3.0,1
+3016,102.0,950,Panvel,2.0,3
+3018,90.0,1150,Panvel,2.0,1
+3022,165.0,1010,Panvel,2.0,3
+3026,479.0,1177,Parel,2.0,3
+3027,361.0,1043,Parel,3.0,1
+3028,605.0,823,Parel,2.0,2
+3029,374.0,1404,Parel,6.0,2
+3030,655.0,2605,Parel,3.0,2
+3031,368.0,1543,Parel,2.0,1
+3032,799.0,825,Parel,2.0,1
+3033,655.0,2604,Parel,3.0,2
+3034,605.0,1835,Parel,2.0,3
+3036,145.0,1403,Parel,3.0,2
+3038,368.0,1177,Parel,2.0,1
+3039,135.0,940,Parel,3.0,2
+3041,655.0,1043,Parel,3.0,3
+3042,799.0,1404,Parel,5.0,2
+3043,123.0,940,Parel,2.0,2
+3045,190.0,1500,Powai,5.0,2
+3046,250.0,1155,Powai,2.0,2
+3047,190.0,1445,Powai,1.0,3
+3050,265.0,1050,Powai,5.0,3
+3054,198.0,970,Powai,5.0,3
+3055,160.0,1250,Powai,3.0,3
+3057,152.0,1700,Powai,2.0,3
+3058,195.0,980,Powai,2.0,2
+3060,275.0,1500,Powai,2.0,2
+3062,168.0,1505,Powai,2.0,1
+3063,175.0,975,Powai,2.0,3
+3064,165.0,1150,Powai,1.0,3
+3065,155.0,1150,Powai,2.0,3
+3067,190.0,1100,Powai,5.0,3
+3068,270.0,1502,Powai,2.0,3
+3073,145.0,1050,Powai,2.0,2
+3075,159.0,650,Powai,2.0,2
+3077,90.0,1120,Powai,2.0,1
+3079,195.0,660,Powai,4.0,1
+3081,265.0,735,Powai,2.0,2
+3082,222.0,928,Powai,2.0,3
+3083,273.0,772,Powai,2.0,2
+3084,279.0,1613,Powai,2.0,3
+3086,237.0,970,Powai,4.0,3
+3087,150.0,950,Powai,2.0,2
+3088,90.0,970,Powai,6.0,1
+3090,200.0,885,Powai,2.0,2
+3092,160.0,770,Powai,2.0,1
+3093,250.0,1070,Powai,2.0,2
+3094,252.0,1198,Powai,2.0,3
+3095,150.0,940,Powai,2.0,2
+3098,181.0,1350,Powai,3.0,3
+3099,181.0,1050,Powai,4.0,3
+3100,185.0,1750,Powai,2.0,3
+3101,145.0,1060,Powai,3.0,2
+3102,175.0,602,Powai,2.0,2
+3103,185.0,1150,Powai,4.0,2
+3104,200.0,1050,Powai,6.0,2
+3105,98.0,900,Powai,2.0,1
+3106,185.0,1100,Powai,1.0,3
+3107,65.0,1250,Powai,2.0,1
+3108,220.0,1150,Powai,3.0,3
+3110,225.0,1155,Powai,2.0,3
+3111,260.0,1000,Powai,4.0,1
+3112,220.0,1300,Powai,4.0,2
+3113,170.0,1070,Powai,6.0,3
+3114,285.0,1000,Powai,2.0,3
+3115,210.0,980,Powai,5.0,3
+3117,265.0,1000,Powai,3.0,3
+3118,100.0,1150,Powai,2.0,1
+3119,185.0,1198,Powai,3.0,3
+3120,191.0,1100,Powai,3.0,3
+3123,185.0,1150,Powai,3.0,2
+3124,200.0,1050,Powai,5.0,1
+3126,185.0,1100,Powai,1.0,3
+3128,220.0,1150,Powai,2.0,2
+3129,167.0,1100,Powai,4.0,2
+3133,255.0,970,Powai,2.0,3
+3136,265.0,735,Powai,4.0,2
+3137,273.0,1613,Powai,2.0,3
+3138,279.0,1023,Powai,3.0,3
+3139,180.0,997,Powai,2.0,3
+3142,151.0,1750,Powai,2.0,3
+3146,225.0,1750,Sanpada,6.0,2
+3147,170.0,1250,Sanpada,2.0,3
+3148,195.0,2400,Sanpada,3.0,2
+3149,129.0,2400,Sanpada,1.0,1
+3150,144.0,2000,Sanpada,2.0,2
+3153,185.0,600,Sanpada,5.0,2
+3154,190.0,750,Sanpada,7.0,2
+3155,180.0,600,Sanpada,2.0,1
+3158,246.0,1215,Sanpada,2.0,3
+3159,110.0,900,Sanpada,2.0,2
+3160,195.0,910,Sanpada,3.0,3
+3163,180.0,1215,Sanpada,3.0,1
+3164,220.0,1215,Sanpada,6.0,3
+3165,79.0,1435,Sanpada,2.0,2
+3166,240.0,600,Sanpada,2.0,2
+3167,92.0,1313,Sanpada,3.0,2
+3168,250.0,1600,Sanpada,2.0,3
+3169,185.0,760,Santacruz East,3.0,2
+3170,225.0,1100,Santacruz East,2.0,3
+3171,100.0,950,Santacruz East,3.0,3
+3172,118.0,1000,Santacruz East,3.0,3
+3173,479.0,650,Santacruz East,2.0,1
+3174,361.0,1000,Santacruz East,3.0,3
+3175,120.0,650,Santacruz East,4.0,2
+3176,385.0,747,Santacruz East,2.0,2
+3177,325.0,1200,Santacruz West,2.0,3
+3178,525.0,1144,Santacruz West,1.0,3
+3179,650.0,3500,Santacruz West,2.0,3
+3180,600.0,1266,Santacruz West,3.0,3
+3181,260.0,1440,Santacruz West,2.0,3
+3182,236.0,900,Santacruz West,2.0,3
+3183,300.0,960,Santacruz West,2.0,3
+3184,171.0,1150,Seawoods,2.0,1
+3185,171.0,1100,Seawoods,3.0,2
+3186,171.0,1100,Seawoods,7.0,3
+3187,140.0,900,Seawoods,3.0,3
+3188,189.0,1205,Seawoods,3.0,3
+3189,215.0,605,Seawoods,2.0,2
+3190,191.0,1250,Seawoods,2.0,2
+3191,217.0,1205,Seawoods,2.0,4
+3192,192.0,1250,Seawoods,2.0,4
+3193,192.0,1205,Seawoods,2.0,3
+3194,215.0,1205,Seawoods,2.0,1
+3195,190.0,1300,Seawoods,2.0,3
+3197,210.0,682,Seawoods,1.0,2
+3198,210.0,1425,Seawoods,1.0,3
+3199,135.0,1425,Seawoods,3.0,2
+3200,85.0,1092,Seawoods,3.0,2
+3203,115.0,1291,Seawoods,3.0,2
+3204,192.0,1125,Seawoods,4.0,1
+3205,81.0,1650,Seawoods,3.0,2
+3206,75.0,1850,Seawoods,4.0,2
+3207,144.0,1351,Seawoods,5.0,3
+3209,70.0,1055,Seawoods,4.0,2
+3210,85.0,1084,Seawoods,4.0,2
+3212,129.0,1030,Seawoods,2.0,3
+3213,135.0,1056,Seawoods,3.0,2
+3214,155.0,1055,Seawoods,2.0,1
+3215,137.99999,2040,Seawoods,3.0,2
+3216,80.0,1281,Seawoods,2.0,2
+3217,225.0,1650,Seawoods,2.0,1
+3219,162.0,1850,Seawoods,3.0,4
+3220,95.0,1281,Seawoods,2.0,2
+3221,92.0,1150,Sector 17 Ulwe,4.0,1
+3222,53.0,690,Sector 17 Ulwe,3.0,2
+3223,110.0,1230,Sector 17 Ulwe,3.0,2
+3224,45.0,599,Sector 17 Ulwe,2.0,1
+3225,168.0,1665,Sector 17 Ulwe,3.0,3
+3226,162.99999,1640,Sector 17 Ulwe,3.0,2
+3227,155.0,1650,Sector 17 Ulwe,3.0,2
+3229,168.0,1665,Sector 17 Ulwe,3.0,2
+3230,162.99999,1640,Sector 17 Ulwe,2.0,4
+3231,155.0,1650,Sector 17 Ulwe,2.0,2
+3232,55.0,650,Sector 17 Ulwe,2.0,2
+3233,52.0,667,Sector 17 Ulwe,5.0,2
+3235,49.0,665,Sector 17 Ulwe,1.0,2
+3236,70.0,1000,Sector 17 Ulwe,2.0,1
+3237,160.0,1350,Sector 17 Ulwe,2.0,3
+3238,160.0,1350,Sector 17 Ulwe,2.0,4
+3239,105.0,1245,Sector 17 Ulwe,2.0,3
+3240,105.0,1245,Sector 17 Ulwe,2.0,3
+3241,44.0,850,Sector 17 Ulwe,2.0,2
+3243,95.0,1260,Sector 19 Kharghar,2.0,3
+3244,135.0,1340,Sector 19 Kharghar,3.0,4
+3245,60.0,850,Sector 19 Kharghar,4.0,1
+3246,56.0,635,Sector 19 Kharghar,1.0,2
+3247,100.0,1098,Sector 19 Kharghar,3.0,3
+3248,65.0,675,Sector 19 Kharghar,7.0,1
+3249,100.0,1098,Sector 19 Kharghar,4.0,2
+3250,130.0,1550,Sector 20 Kharghar,4.0,3
+3252,85.0,1200,Sector 20 Kharghar,2.0,2
+3253,130.0,1300,Sector 20 Kharghar,3.0,2
+3254,111.0,1117,Sector 20 Kharghar,3.0,2
+3256,130.0,1300,Sector 20 Kharghar,1.0,2
+3260,130.0,1300,Sector 20 Kharghar,10.0,2
+3262,80.0,1000,Sector 20 Kharghar,4.0,2
+3264,135.0,776,Sector 20 Kharghar,2.0,2
+3265,50.0,650,Sector-18 Ulwe,2.0,2
+3266,92.0,1515,Sector-18 Ulwe,2.0,3
+3267,89.0,1655,Sector-18 Ulwe,1.0,3
+3268,95.0,1150,Sector-18 Ulwe,2.0,3
+3269,120.0,1100,Sector-18 Ulwe,3.0,3
+3270,40.0,1600,Sector-18 Ulwe,6.0,3
+3271,85.0,1470,Sector-18 Ulwe,3.0,2
+3272,50.0,1129,Sector-18 Ulwe,2.0,1
+3273,145.0,1180,Sector-18 Ulwe,2.0,3
+3274,155.0,1500,Sector-3 Ulwe,2.0,3
+3275,137.99999,1440,Sector-3 Ulwe,4.0,3
+3276,155.0,1500,Sector-3 Ulwe,2.0,1
+3277,137.99999,1440,Sector-3 Ulwe,5.0,3
+3278,78.0,1055,Sector-3 Ulwe,5.0,2
+3279,116.0,3000,Sector-3 Ulwe,4.0,3
+3280,90.0,1585,Sector-3 Ulwe,2.0,3
+3281,90.0,1220,Sector-3 Ulwe,6.0,3
+3282,110.0,1220,Sector-3 Ulwe,2.0,3
+3283,108.0,1260,Sector12 Kamothe,2.0,2
+3284,85.0,1150,Sector12 Kamothe,2.0,3
+3285,85.0,1165,Sector12 Kamothe,6.0,3
+3286,110.0,1470,Sector12 Kamothe,2.0,4
+3287,92.0,1180,Sector12 Kamothe,2.0,3
+3288,85.0,1150,Sector12 Kamothe,4.0,2
+3289,85.0,1165,Sector12 Kamothe,1.0,3
+3290,110.0,1470,Sector12 Kamothe,1.0,3
+3291,92.0,1180,Sector12 Kamothe,2.0,3
+3292,160.0,1700,Sector12 Kamothe,1.0,3
+3293,155.0,1240,Sector9 Kamothe,2.0,3
+3294,150.0,1735,Sector9 Kamothe,2.0,3
+3295,88.0,980,Sector9 Kamothe,2.0,1
+3296,150.0,1735,Sector9 Kamothe,2.0,3
+3297,88.0,980,Sector9 Kamothe,2.0,2
+3298,112.99999,1165,Sector9 Kamothe,2.0,2
+3299,112.99999,1165,Sector9 Kamothe,2.0,3
+3300,121.0,1080,Sion,2.0,3
+3301,40.0,980,Sion,3.0,2
+3302,86.0,980,Sion,3.0,3
+3303,23.5,1950,Sion,2.0,2
+3304,23.5,1950,Sion,5.0,3
+3305,202.99999,961,Sion,2.0,3
+3306,31.0,1050,Sion,2.0,3
+3307,64.0,1550,Taloja,2.0,2
+3308,49.0,980,Taloja,2.0,1
+3309,53.0,1100,Taloja,4.0,3
+3311,26.5,670,Taloja,2.0,1
+3312,58.0,1060,Taloja,3.0,3
+3313,52.0,1070,Taloja,2.0,2
+3314,49.0,995,Taloja,3.0,1
+3317,45.0,1005,Taloja,2.0,1
+3318,32.0,980,Taloja,2.0,1
+3320,63.0,695,Taloja,2.0,1
+3321,70.5,1050,Taloja,2.0,3
+3322,29.0,1110,Taloja,2.0,1
+3323,70.5,1050,Taloja,4.0,3
+3324,26.0,510,Taloja,3.0,1
+3327,56.0,671,Taloja,3.0,2
+3328,57.0,900,Taloja,4.0,1
+3331,55.0,650,Taloja,4.0,2
+3334,88.0,1055,Taloja,3.0,3
+3335,235.0,1063,Thakur Village,3.0,3
+3336,245.0,1050,Thakur Village,2.0,3
+3337,155.0,1357,Thakur Village,2.0,3
+3338,172.0,1830,Thakur Village,3.0,3
+3339,210.0,1360,Thakur Village,2.0,3
+3340,235.0,1063,Thakur Village,2.0,3
+3341,245.0,1050,Thakur Village,4.0,2
+3343,172.0,1830,Thakur Village,3.0,3
+3344,215.0,1357,Thakur Village,2.0,3
+3345,215.0,1357,Thakur Village,4.0,3
+3346,30.0,950,Thane,4.0,2
+3347,45.0,600,Thane,2.0,2
+3348,45.0,800,Thane,4.0,2
+3350,45.0,600,Thane,9.0,2
+3351,30.0,600,Thane,2.0,2
+3352,45.0,800,Thane,3.0,1
+3353,45.0,1065,Thane,2.0,2
+3354,35.0,900,Thane,2.0,2
+3355,28.0,1375,Thane,4.0,2
+3356,28.0,1375,Thane,2.0,2
+3357,116.0,1179,Thane West,2.0,1
+3359,130.0,1157,Thane West,3.0,1
+3361,180.0,1309,Thane West,2.0,4
+3362,284.0,1733,Thane West,2.0,4
+3363,284.0,1733,Thane West,3.0,3
+3364,165.0,1250,Thane West,2.0,4
+3365,245.0,1650,Thane West,1.0,3
+3366,60.0,575,Thane West,2.0,1
+3368,168.0,880,Thane West,2.0,2
+3369,170.0,550,Thane West,2.0,1
+3370,241.0,1810,Thane West,2.0,4
+3371,162.0,2090,Thane West,3.0,4
+3373,275.0,724,Thane West,2.0,2
+3375,200.0,995,Thane West,2.0,3
+3376,200.0,995,Thane West,3.0,1
+3377,154.0,1505,Thane West,2.0,3
+3378,129.0,1570,Thane West,2.0,2
+3379,127.0,1311,Thane West,4.0,2
+3389,154.0,1505,Thane West,2.0,3
+3390,129.0,1570,Thane West,3.0,2
+3391,127.0,1311,Thane West,2.0,2
+3401,165.0,1065,Thane West,2.0,2
+3406,294.0,920,Thane West,2.0,3
+3413,140.0,1050,Thane West,5.0,1
+3414,140.0,1050,Thane West,4.0,3
+3416,20.0,850,Thane West,2.0,1
+3417,188.0,945,Thane West,2.0,2
+3418,155.0,981,Thane West,5.0,2
+3419,149.0,915,Thane West,2.0,2
+3420,155.0,928,Thane West,2.0,3
+3421,135.0,919,Thane West,5.0,3
+3424,128.0,1206,Thane West,5.0,2
+3426,70.0,735,Thane West,2.0,1
+3433,130.0,1050,Thane West,2.0,2
+3435,275.99999,783,Thane West,2.0,1
+3437,127.0,685,Thane West,4.0,2
+3438,130.0,1050,Thane West,2.0,3
+3440,61.0,350,Thane West,3.0,1
+3447,59.9,905,Thane West,2.0,1
+3448,52.99,905,Thane West,5.0,1
+3450,225.0,1100,Thane West,2.0,3
+3451,185.0,958,Thane West,1.0,1
+3452,80.0,1174,Thane West,6.0,1
+3456,165.0,1230,Thane West,1.0,3
+3457,131.0,1140,Thane West,3.0,3
+3458,217.0,1140,Thane West,2.0,2
+3459,182.0,1400,Thane West,1.0,2
+3461,175.0,1650,Thane West,2.0,2
+3462,175.0,1350,Thane West,2.0,3
+3463,200.0,1350,Thane West,2.0,3
+3464,153.0,1775,Thane West,5.0,2
+3466,177.0,1166,Thane West,6.0,3
+3467,95.0,1220,Thane West,4.0,1
+3468,133.0,1046,Thane West,2.0,3
+3469,188.0,1158,Thane West,4.0,3
+3471,175.0,928,Thane West,3.0,2
+3473,72.0,558,Thane West,1.0,1
+3475,208.0,1020,Thane West,4.0,2
+3476,208.0,1214,Thane West,4.0,1
+3477,162.0,2519,Thane West,2.0,3
+3478,140.0,1250,Thane West,2.0,3
+3481,150.0,500,Thane West,3.0,1
+3484,150.0,1140,Thane West,3.0,3
+3485,255.0,1625,Thane West,2.0,3
+3486,250.0,1245,Thane West,3.0,1
+3488,192.0,711,Thane West,3.0,2
+3489,160.0,1012,Thane West,4.0,3
+3490,214.0,969,Thane West,2.0,3
+3492,55.0,1137,Thane West,2.0,1
+3493,148.0,1000,Thane West,3.0,1
+3499,265.0,1020,Thane West,2.0,3
+3501,123.0,1461,Thane West,2.0,2
+3502,269.0,1044,Thane West,1.0,2
+3506,41.0,960,Thane West,3.0,1
+3509,268.0,1461,Thane West,5.0,3
+3511,85.0,1500,Thane West,2.0,1
+3513,264.0,1083,Thane West,2.0,3
+3516,152.0,1489,Thane West,3.0,2
+3518,250.0,2000,Thane West,3.0,3
+3519,190.0,1100,Thane West,2.0,3
+3520,140.0,910,Thane West,2.0,2
+3523,232.0,1160,Thane West,2.0,2
+3525,93.0,675,Thane West,2.0,1
+3526,140.0,828,Thane West,2.0,1
+3527,158.0,811,Thane West,3.0,2
+3528,220.0,848,Thane West,6.0,2
+3529,130.0,1234,Thane West,1.0,1
+3530,90.0,1000,Thane West,2.0,1
+3534,300.0,1730,Thane West,3.0,1
+3539,210.0,687,Thane West,3.0,2
+3540,130.0,746,Thane West,3.0,2
+3541,158.0,811,Thane West,3.0,2
+3542,220.0,848,Thane West,2.0,2
+3543,130.0,1234,Thane West,4.0,2
+3544,162.99999,698,Thane West,3.0,2
+3551,137.99999,1153,Thane West,2.0,3
+3552,155.0,713,Thane West,2.0,2
+3553,140.0,828,Thane West,2.0,2
+3554,158.0,811,Thane West,2.0,2
+3555,220.0,848,Thane West,2.0,2
+3556,130.0,1234,Thane West,2.0,3
+3559,42.5,560,Thane West,1.0,1
+3560,43.0,560,Thane West,2.0,1
+3561,28.0,324,Thane West,3.0,1
+3562,28.75,324,Thane West,2.0,1
+3565,160.0,1200,Thane West,1.0,2
+3567,137.99999,1153,Thane West,4.0,2
+3568,130.0,746,Thane West,3.0,2
+3569,158.0,811,Thane West,2.0,2
+3570,220.0,848,Thane West,7.0,2
+3571,130.0,1234,Thane West,3.0,3
+3572,280.0,706,Thane West,2.0,2
+3573,181.0,1091,Thane West,2.0,3
+3575,135.0,962,Thane West,1.0,3
+3578,130.0,676,Thane West,3.0,2
+3579,158.0,984,Thane West,3.0,3
+3580,220.0,880,Thane West,2.0,2
+3582,50.4,1318,Thane West,3.0,1
+3583,175.0,838,Thane West,2.0,1
+3584,166.0,1167,Thane West,6.0,2
+3585,23.9,1100,Thane West,2.0,1
+3586,155.0,600,Thane West,2.0,2
+3588,115.0,670,Thane West,3.0,1
+3593,175.0,625,Thane West,3.0,1
+3594,190.0,905,Thane West,2.0,3
+3595,175.0,650,Thane West,3.0,2
+3597,160.0,1565,Thane West,4.0,2
+3599,165.0,940,Thane West,2.0,1
+3600,185.0,1010,Thane West,2.0,2
+3603,261.0,901,Thane West,3.0,3
+3604,140.0,901,Thane West,1.0,3
+3606,166.0,725,Thane West,3.0,2
+3607,166.0,907,Thane West,4.0,3
+3608,280.0,641,Thane West,4.0,2
+3614,213.0,990,Thane West,2.0,1
+3615,300.0,880,Thane West,4.0,2
+3620,178.0,1150,Thane West,2.0,3
+3624,56.0,1200,Thane West,4.0,1
+3628,26.0,950,Thane West,3.0,1
+3629,138.99999,1100,Thane West,4.0,3
+3631,234.0,334,Thane West,3.0,1
+3632,130.0,1150,Thane West,7.0,1
+3633,155.0,687,Thane West,3.0,2
+3634,140.0,808,Thane West,3.0,2
+3635,158.0,1153,Thane West,2.0,3
+3636,268.0,848,Thane West,2.0,2
+3638,195.0,1753,Thane West,2.0,3
+3639,130.0,1324,Thane West,2.0,2
+3640,166.0,598,Thane West,2.0,1
+3641,166.0,991,Thane West,2.0,3
+3642,280.0,761,Thane West,3.0,2
+3643,181.0,944,Thane West,3.0,2
+3644,218.0,762,Thane West,2.0,2
+3648,195.0,902,Thane West,2.0,2
+3649,180.0,902,Thane West,2.0,2
+3651,166.0,676,Thane West,3.0,1
+3652,155.0,725,Thane West,2.0,1
+3653,155.0,616,Thane West,2.0,2
+3654,135.0,981,Thane West,2.0,3
+3655,200.0,915,Thane West,4.0,3
+3656,129.0,883,Thane West,2.0,2
+3657,160.0,928,Thane West,3.0,1
+3661,285.0,1150,Thane West,2.0,1
+3662,300.0,957,Thane West,2.0,3
+3663,250.0,750,Thane West,2.0,2
+3664,137.0,808,Thane West,6.0,2
+3665,195.0,1753,Thane West,8.0,2
+3666,130.0,1324,Thane West,2.0,3
+3667,82.0,991,Thane West,6.0,1
+3668,268.0,761,Thane West,3.0,2
+3670,137.0,808,Thane West,2.0,1
+3671,195.0,1753,Thane West,2.0,3
+3672,130.0,1324,Thane West,2.0,3
+3680,158.0,687,Thane West,3.0,2
+3681,220.0,1153,Thane West,3.0,2
+3682,130.0,746,Thane West,2.0,2
+3685,128.0,698,Thane West,2.0,2
+3688,23.94,640,Titwala,2.0,2
+3689,24.36,640,Titwala,2.0,2
+3690,43.0,830,Titwala,2.0,2
+3691,25.0,845,Titwala,2.0,1
+3692,25.51,615,Titwala,3.0,2
+3693,60.0,960,Titwala,2.0,3
+3694,90.0,1100,Ulwe,3.0,3
+3695,85.0,1135,Ulwe,2.0,3
+3696,58.0,540,Ulwe,2.0,1
+3697,58.0,540,Ulwe,3.0,1
+3699,145.0,1560,Ulwe,6.0,4
+3700,85.0,1220,Ulwe,3.0,3
+3705,105.0,1190,Ulwe,2.0,3
+3707,82.0,1000,Ulwe,2.0,1
+3708,52.0,1085,Ulwe,3.0,1
+3711,49.5,1235,Ulwe,5.0,1
+3713,80.0,1595,Ulwe,1.0,1
+3721,90.0,980,Ulwe,3.0,1
+3726,103.0,620,Ulwe,2.0,2
+3732,97.0,725,Ulwe,2.0,1
+3733,120.0,1355,Ulwe,5.0,3
+3734,120.0,1750,Ulwe,4.0,2
+3735,90.0,1750,Ulwe,3.0,3
+3738,85.0,1100,Ulwe,3.0,3
+3739,182.0,1100,Ulwe,3.0,2
+3741,85.0,1100,Ulwe,2.0,2
+3742,182.0,1100,Ulwe,3.0,3
+3743,92.0,1127,Ulwe,2.0,1
+3744,85.0,1127,Ulwe,2.0,2
+3748,135.0,679,Ulwe,3.0,2
+3749,137.99999,725,Ulwe,5.0,2
+3751,160.0,685,Ulwe,2.0,1
+3752,160.0,1075,Ulwe,2.0,3
+3753,95.0,1565,Ulwe,2.0,3
+3754,86.0,2905,Ulwe,1.0,3
+3755,160.0,1690,Ulwe,3.0,2
+3756,175.0,1215,Ulwe,3.0,3
+3757,115.0,2905,Ulwe,5.0,3
+3758,110.0,1850,Ulwe,2.0,1
+3759,80.0,1350,Ulwe,2.0,1
+3761,165.0,1660,Ulwe,2.0,2
+3767,28.99,650,Ulwe,3.0,1
+3770,41.51,650,Ulwe,10.0,1
+3773,105.0,1050,Ulwe,2.0,2
+3774,40.0,650,Ulwe,1.0,1
+3776,40.99,650,Ulwe,3.0,1
+3777,120.0,650,Ulwe,1.0,2
+3779,71.98999,680,Ulwe,2.0,1
+3782,42.0,640,Ulwe,2.0,1
+3783,90.0,640,Ulwe,8.0,2
+3784,90.0,1050,Ulwe,4.0,3
+3789,145.0,680,Ulwe,2.0,1
+3790,150.0,1050,Ulwe,2.0,3
+3793,175.0,1550,Ulwe,6.0,3
+3794,195.0,1350,Ulwe,4.0,1
+3795,200.0,1660,Ulwe,2.0,3
+3796,100.0,1650,Ulwe,3.0,3
+3797,165.0,1156,Ulwe,2.0,3
+3798,200.0,1660,Ulwe,3.0,2
+3799,185.0,1650,Ulwe,2.0,3
+3801,100.0,1150,Ulwe,2.0,2
+3802,85.0,3400,Ulwe,2.0,2
+3807,90.0,1075,Ulwe,3.0,3
+3809,101.0,670,Ulwe,3.0,1
+3811,50.0,650,Ulwe,1.0,1
+3815,82.0,1050,Ulwe,2.0,3
+3817,84.95,1100,Ulwe,1.0,2
+3819,100.0,1650,Ulwe,1.0,3
+3820,40.0,1100,Ulwe,2.0,1
+3823,73.5,650,Ulwe,2.0,1
+3824,90.0,1586,Ulwe,2.0,1
+3825,80.0,920,Ulwe,2.0,3
+3827,69.98999,920,Ulwe,4.0,1
+3835,45.0,650,Ulwe,2.0,1
+3837,27.0,650,Ulwe,2.0,1
+3838,120.0,1250,Ulwe,2.0,3
+3839,120.0,1450,Ulwe,3.0,2
+3840,90.0,1450,Ulwe,2.0,3
+3841,95.0,1050,Ulwe,3.0,2
+3842,140.0,1100,Ulwe,2.0,2
+3843,95.0,1653,Ulwe,2.0,1
+3845,50.0,650,Ulwe,5.0,1
+3847,80.0,1050,Ulwe,3.0,3
+3850,45.0,650,Ulwe,3.0,1
+3855,84.0,1150,Ulwe,3.0,2
+3857,96.0,670,Ulwe,3.0,2
+3858,85.0,1100,Ulwe,2.0,1
+3859,115.0,1123,Ulwe,3.0,1
+3863,135.0,980,Ulwe,4.0,3
+3864,90.0,1538,Ulwe,2.0,3
+3865,85.0,1120,Ulwe,2.0,2
+3866,85.0,1000,Ulwe,2.0,3
+3867,110.0,1000,Ulwe,2.0,2
+3868,115.0,1350,Ulwe,2.0,3
+3870,80.0,1000,Ulwe,2.0,1
+3872,51.0,690,Ulwe,2.0,1
+3874,44.0,1210,Ulwe,2.0,1
+3876,130.0,1350,Ulwe,2.0,3
+3878,190.0,1155,Ulwe,2.0,3
+3879,135.0,1260,Ulwe,2.0,2
+3880,118.0,1235,Ulwe,7.0,4
+3881,90.0,1580,Ulwe,1.0,1
+3882,225.0,1580,Ulwe,2.0,2
+3883,59.9,695,Ulwe,3.0,1
+3886,100.0,1140,Ulwe,2.0,3
+3892,220.0,1660,Ulwe,2.0,3
+3893,125.0,1240,Ulwe,2.0,3
+3895,146.0,675,Ulwe,4.0,2
+3896,100.0,1240,Ulwe,2.0,3
+3897,225.0,1335,Ulwe,2.0,2
+3899,45.0,1100,Ulwe,2.0,1
+3904,87.5,1155,Ulwe,3.0,3
+3907,125.0,1155,Ulwe,3.0,3
+3908,225.0,1350,Ulwe,4.0,3
+3909,82.0,1100,Ulwe,3.0,2
+3910,120.0,1140,Ulwe,5.0,3
+3911,110.0,1150,Ulwe,2.0,3
+3915,84.0,700,Ulwe,2.0,2
+3916,225.0,1548,Ulwe,2.0,3
+3917,230.0,1145,Ulwe,3.0,2
+3918,98.0,1140,Ulwe,2.0,2
+3919,148.0,1635,Ulwe,2.0,2
+3920,135.0,1635,Ulwe,2.0,1
+3922,86.0,1660,Ulwe,2.0,2
+3923,82.0,1385,Ulwe,3.0,2
+3924,115.0,1158,Ulwe,3.0,2
+3925,98.0,1550,Ulwe,2.0,1
+3926,85.0,1570,Ulwe,1.0,2
+3928,185.0,1157,Ulwe,2.0,3
+3929,225.0,1165,Ulwe,2.0,1
+3930,225.0,1140,Ulwe,2.0,2
+3931,58.0,1155,Ulwe,2.0,1
+3932,220.0,879,Ulwe,4.0,1
+3933,92.0,1200,Ulwe,3.0,3
+3934,75.0,1107,Vasai,2.0,2
+3935,57.6,778,Vasai,2.0,2
+3936,46.0,930,Vasai,2.0,2
+3937,39.0,895,Vasai,4.0,2
+3938,185.0,1125,Vasai,3.0,2
+3939,85.0,1145,Vasai,2.0,2
+3940,27.95,925,Vasai,4.0,2
+3941,39.77,650,Vasai,3.0,2
+3944,75.0,925,Vasai,2.0,3
+3945,42.0,1160,Vasai,3.0,2
+3946,36.0,950,Vasai,3.0,1
+3948,29.0,695,Vasai,2.0,2
+3949,46.0,650,Vasai,3.0,2
+3950,74.0,900,Vasai,1.0,2
+3951,35.0,670,Vasai,3.0,2
+3953,26.0,960,Vasai,4.0,1
+3954,107.0,1050,Vasai,3.0,2
+3955,63.0,800,Vasai,2.0,2
+3956,156.0,527,Vasai,3.0,1
+3957,130.0,1175,Vasai West,3.0,3
+3958,95.0,1975,Vasai West,1.0,3
+3959,40.0,1975,Vasai West,3.0,3
+3960,63.0,1200,Vasai West,2.0,3
+3961,37.5,950,Vasai West,2.0,3
+3962,70.0,1350,Vasai West,2.0,3
+3963,47.0,450,Vasai east,2.0,1
+3964,58.0,750,Vasai east,2.0,2
+3965,51.5,850,Vasai east,2.0,1
+3966,76.0,850,Vasai east,2.0,1
+3967,35.0,800,Vasai east,2.0,2
+3968,51.0,1250,Vasai east,4.0,2
+3969,390.0,1200,Vasant Vihar,4.0,2
+3970,310.0,2150,Vasant Vihar,3.0,7
+3971,150.0,2150,Vasant Vihar,3.0,3
+3972,390.0,1109,Vasant Vihar,3.0,3
+3973,310.0,2150,Vasant Vihar,2.0,2
+3974,150.0,2150,Vasant Vihar,3.0,2
+3975,390.0,1109,Vasant Vihar,3.0,3
+3976,85.0,900,Vashi,3.0,3
+3977,69.0,570,Vashi,2.0,1
+3978,100.0,1786,Vashi,2.0,2
+3979,30.61,1000,Vashi,3.0,3
+3980,60.0,1800,Vashi,2.0,2
+3981,78.0,2050,Vashi,3.0,3
+3982,45.0,1600,Vashi,2.0,3
+3983,40.0,2000,Vashi,2.0,3
+3984,130.0,2000,Vashi,3.0,3
+3985,300.0,1500,Ville Parle East,3.0,3
+3986,170.0,1700,Ville Parle East,9.0,2
+3987,280.0,700,Ville Parle East,2.0,2
+3988,300.0,1100,Ville Parle East,2.0,3
+3989,200.0,1100,Ville Parle East,2.0,2
+3991,275.0,1700,Ville Parle East,2.0,3
+3992,400.0,1700,Ville Parle East,3.0,3
+3993,280.0,1800,Ville Parle East,2.0,2
+3994,280.0,1800,Ville Parle East,2.0,3
+3995,400.0,1850,Ville Parle East,2.0,3
+3996,300.0,1200,Ville Parle East,2.0,2
+3998,290.0,950,Ville Parle East,4.0,2
+3999,290.0,1100,Ville Parle East,3.0,2
+4000,330.0,665,Ville Parle East,4.0,2
+4001,275.0,1200,Ville Parle East,2.0,3
+4002,290.0,900,Ville Parle East,1.0,3
+4003,290.0,690,Ville Parle East,3.0,2
+4004,280.0,1400,Ville Parle East,1.0,2
+4006,325.0,1400,Ville Parle East,4.0,3
+4008,265.0,1100,Ville Parle East,2.0,2
+4009,275.0,1180,Ville Parle East,1.0,3
+4010,230.0,1728,Ville Parle East,3.0,2
+4011,250.0,837,Ville Parle East,2.0,1
+4012,325.0,1130,Ville Parle East,2.0,3
+4013,300.0,1130,Ville Parle East,2.0,3
+4014,280.0,1960,Ville Parle East,2.0,1
+4015,279.0,980,Ville Parle East,2.0,3
+4016,288.0,845,Ville Parle East,2.0,2
+4017,295.0,853,Ville Parle East,2.0,1
+4018,404.0,907,Ville Parle East,2.0,3
+4021,75.0,975,Virar,3.0,2
+4023,70.31,1030,Virar,2.0,2
+4024,48.0,650,Virar,2.0,2
+4025,105.0,650,Virar,3.0,2
+4026,46.56,426,Virar,5.0,1
+4028,44.59,890,Virar,2.0,1
+4031,62.0,690,Virar,2.0,2
+4037,40.67,665,Virar,3.0,1
+4038,77.0,1335,Virar,3.0,2
+4039,77.0,1335,Virar,3.0,2
+4040,77.0,1335,Virar,4.0,2
+4042,43.61,387,Virar,3.0,1
+4043,44.59,890,Virar,2.0,2
+4045,100.0,615,Virar,2.0,2
+4048,41.0,910,Virar,2.0,1
+4052,39.0,910,Virar,2.0,1
+4057,63.0,910,Virar,4.0,2
+4058,90.0,910,Virar,5.0,3
+4059,100.0,630,Virar,2.0,1
+4060,50.0,1335,Virar,2.0,2
+4061,26.0,510,Virar,2.0,1
+4071,27.67,560,Virar,2.0,1
+4078,26.0,627,Virar,2.0,1
+4080,65.0,1050,Virar,2.0,2
+4081,22.5,415,Virar East,4.0,1
+4082,25.0,540,Virar East,2.0,1
+4083,42.0,610,Virar East,3.0,2
+4084,37.2,975,Virar West,2.0,3
+4085,42.0,930,Virar West,3.0,2
+4086,37.11999,1075,Virar West,2.0,3
+4087,37.28,910,Virar West,2.0,1
+4088,39.0,910,Virar West,2.0,3
+4089,40.0,910,Virar West,2.0,3
+4090,31.0,660,Virar West,2.0,2
+4091,330.0,1245,Wadala,1.0,3
+4092,290.0,1153,Wadala,3.0,2
+4093,288.0,1638,Wadala,2.0,4
+4094,300.0,1701,Wadala,4.0,3
+4095,392.0,2061,Wadala,3.0,3
+4096,254.0,1431,Wadala,3.0,3
+4097,310.0,1267,Wadala,3.0,1
+4098,400.0,1735,Wadala,2.0,2
+4099,189.0,1086,Wadala,6.0,3
+4100,138.99999,925,Wadala,2.0,2
+4101,300.0,1655,Wadala,2.0,2
+4102,270.0,1440,Wadala,3.0,3
+4103,137.99999,906,Wadala,1.0,3
+4104,158.0,1395,Wadala,2.0,3
+4105,150.0,880,Wadala East Wadala,2.0,2
+4106,140.0,690,Wadala East Wadala,2.0,1
+4107,150.0,880,Wadala East Wadala,2.0,1
+4108,140.0,690,Wadala East Wadala,6.0,1
+4109,135.0,950,Wadala East Wadala,2.0,2
+4110,248.0,958,Wadala East Wadala,2.0,3
+4111,210.0,1371,Wadala East Wadala,2.0,3
+4112,140.0,2600,Wadala East Wadala,4.0,1
+4113,325.0,1543,Wadala East Wadala,3.0,2
+4114,210.0,1250,Wadala East Wadala,3.0,2
+4115,1060.0,2826,Worli,3.0,3
+4116,1250.0,2904,Worli,4.0,2
+4117,1200.0,3600,Worli,4.0,3
+4118,195.0,800,Worli,3.0,2
+4119,700.0,1700,Worli,2.0,2
+4120,700.0,1700,Worli,1.0,4
+4121,850.0,2000,Worli,3.0,2
+4122,620.0,1450,Worli,4.0,4
+4124,1055.0,1150,Worli,4.0,1
+4125,650.0,2285,Worli,3.0,3
+4126,710.0,3150,Worli,4.0,2
+4128,77.0,6900,Worli,2.0,2
+4129,715.0,3582,Worli,2.0,2
+4131,50.0,2044,Worli,4.0,2
+4136,500.0,1296,matunga east,2.0,3
+4137,300.0,1150,matunga east,5.0,3
+4138,180.0,1296,matunga east,2.0,2
+4139,300.0,1296,matunga east,2.0,3
+4140,370.0,900,matunga east,2.0,2
+4141,255.0,1150,matunga east,2.0,1
+4142,300.0,1296,matunga east,2.0,1
+4143,255.0,1250,matunga east,2.0,2
+4144,255.0,1296,matunga east,2.0,3
+4145,185.0,1296,matunga east,2.0,2
+4146,361.0,1346,mumbai,9.0,3
+4147,95.0,1200,mumbai,2.0,2
+4148,21.0,600,mumbai,5.0,2
+4149,130.0,630,mumbai,5.0,2
+4150,168.0,2700,mumbai,2.0,4
+4151,168.0,2700,mumbai,3.0,4
+4152,111.0,653,mumbai,2.0,2
+4153,92.0,1100,mumbai,2.0,3

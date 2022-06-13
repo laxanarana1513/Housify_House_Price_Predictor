@@ -1,0 +1,20 @@
+{
+  "homepage": "https://laxanarana1513.github.io/Housify_House_Price_Predictor",
+  "name": "de_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "node scripts/start.js",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js --env=jsdom"
+  },
+  "author": "",
+  "license": "ISC"
+}

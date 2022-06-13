@@ -1,0 +1,24 @@
+.Auth{
+    height: 561px;
+    background-image: url(../../assests/images/login.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.AButton{
+    text-align: center;
+}
+
+.AButton button{
+    padding: 11px 24px;
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-family: 'Baloo Bhai 2', cursive;
+}

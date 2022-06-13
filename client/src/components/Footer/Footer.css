@@ -1,0 +1,55 @@
+.Footer{
+    padding: 7em 0 0 0;
+    background: #06112a;
+    color: rgba(255,255,255,.7);
+}
+
+.Inner{
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Icon{
+    list-style: none;
+    margin: 0 10px 10px 0;
+    display: inline-block;
+}
+
+.Icon a{
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.FLinks{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.FLinks:hover{
+    color: red;
+}
+
+.Add{
+    display: table;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.ASpan{
+    width: 40px;
+    font-size: 15px;
+    padding-top: 2px;
+}
+
+.AText{
+    display: table-cell;
+    vertical-align: top;
+    color: white;
+    padding-left: 25px;
+}

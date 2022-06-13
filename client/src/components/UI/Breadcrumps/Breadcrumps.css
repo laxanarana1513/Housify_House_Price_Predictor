@@ -1,0 +1,46 @@
+.Row{
+    padding-top: 11.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Row h1{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 8px;
+}
+
+@media(max-width: 676px){
+    .Row h1{
+        font-size: 63px;
+    }
+}
+
+@media(max-width: 383px){
+    .Row h1{
+        font-size: 53px;
+    }
+}
+
+.Breadcrumps{
+    font-size: 16px;
+    margin-bottom: 10px;
+    z-index: 99;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgba(255,255,255,.8);
+}
+
+.Link{
+    text-decoration: none;
+    color: rgba(255,255,255,.8);
+    font-weight: 700;
+    margin-right: 6px;
+}
+
+.Link:hover{
+    color: rgba(255,255,255,.8);
+}

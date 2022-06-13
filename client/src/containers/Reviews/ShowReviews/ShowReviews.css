@@ -1,0 +1,17 @@
+.Review{
+    padding: 60px 0px;
+    margin: 103px 0px;
+    background-image: url(../../../assests/images/clients.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Head{
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+

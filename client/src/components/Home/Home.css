@@ -1,0 +1,13 @@
+.Home{
+    height: 721px;
+    background-image: url(../../assests/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    /* background-color: rgb(194, 188, 188); */
+    top: 0;
+    bottom: 0;
+    
+}

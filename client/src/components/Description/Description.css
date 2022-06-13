@@ -1,0 +1,19 @@
+.Description{
+    padding: 6em 0 6em 0;
+    margin: 100px 0px 120px 0px;
+    background-color: #efefef;
+    color: rgb(82, 82, 82);
+}
+
+.DIcon{
+    margin-bottom: 20px;
+}
+
+.DText{
+    margin-bottom: 30px;
+}
+
+.DText h3{
+    color: black;
+    font-family: 'Baloo Bhai 2', cursive;
+}

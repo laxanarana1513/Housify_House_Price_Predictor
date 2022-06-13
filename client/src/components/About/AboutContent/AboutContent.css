@@ -1,0 +1,40 @@
+.Aimg{
+    background-image: url(../../../assests/images/AC.jpg);
+    height: 534px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Section{
+    margin-left: -120px;
+    margin-top: 30px;
+    background: #fff;
+    box-shadow: -20px 5px 14px -15px rgb(0 0 0 / 13%);
+    padding: 3rem
+}
+
+.Section h2{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 1.5rem
+}
+
+.Section p{
+    color: #928686;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+@media(max-width: 990px){
+    .Section{
+        margin-left: 0px;
+        margin-top: 0px;
+        padding: 11px;
+    }
+}
